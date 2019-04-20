@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>&lt;Tommy Vo&gt;</title>
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+        <link rel="stylesheet" href="Tommy.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"> <!--CSS CDN-->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    </head>
+    <body data-spy="scroll" data-target=".navbar">
+        <div class="jumbotron jumbotron-fluid landing">
+            <img src="sig.png" class="sig" alt="Tommy's signature">
+            <img src="downAngle.png" id="downAngle" alt="down arrow">
+        </div>
+        
+        <nav class="navbar navbar-expand-sm justify-content-end sticky-top">
+          <ul class="navbar-nav">
+            <li class="navLinks">
+                <a id="navAboutMe" href="#aboutMe">About Me</a>
+            </li>
+            <li class="navLinks">
+                <a id="navProjects" href="#projects">Projects</a>
+            </li>
+            <li class="navLinks">
+                <a id="navContact" href="#contact">Contact</a>
+            </li>
+            <li>
+              <div class="dropdown">
+                  <a id="navHamburger">&#9776;</a>
+                  <div class="navList">
+                      <a id="navAboutMe" href="#aboutMe">About Me</a>
+                      <a id="navProjects" href="#projects">Projects</a>
+                      <a id="navContact" href="#contact">Contact</a>
+                  </div>
+              </div>
+            </li>
+          </ul>
+        </nav>
+        
+        <div id="aboutMe">
+            <div class="jumbotron jumbotron-fluid aboutMe">
+                <div class="padding">
+                    <h1>About Me:</h1>
+                </div>
+                <div class="paper">
+                    <p>
+                        //Name: Tommy Vo<br>
+                        //Base: Kansas City, MO<br>
+                        <br>
+                        //Education:<br>
+                        <span class="tagPurple">var</span> <span class="tagGreen">degree1</span> <span class="tagPurple">=</span> <span class="tagOrange">"Bachelor of Science - Computer Science"</span>;<br>
+                        <span class="tagPurple">var</span> <span class="tagGreen">degree2</span> <span class="tagPurple">=</span> <span class="tagOrange">"Associate of Arts"</span>;<br>
+                        <br>
+                        //Skills:<br>
+                        <span class="tagPurple">var</span> <span class="tagGreen">Programming</span> <span class="tagPurple">=</span> [<span class="tagOrange">"Java"</span>, <span class="tagOrange">"C++"</span>];
+                        <br>
+                        <span class="tagPurple">var</span> <span class="tagGreen">Web_Development</span> <span class="tagPurple">=</span> [<span class="tagOrange">"Javascript"</span>, <span class="tagOrange">"jQuery"</span>, <span class="tagOrange">"HTML"</span>, <span class="tagOrange">"PHP"</span>, <span class="tagOrange">"CSS"</span>, <span class="tagOrange">"Bootstrap"</span>];
+                        <br>
+                        <span class="tagPurple">var</span> <span class="tagGreen">Databases</span> <span class="tagPurple">=</span> [<span class="tagOrange">"MySQL"</span>, <span class="tagOrange">"SQL"</span>];
+                        <br>
+                        <span class="tagPurple">var</span> <span class="tagGreen">Microsoft_Office</span> <span class="tagPurple">=</span> [<span class="tagOrange">"Excel"</span>, <span class="tagOrange">"Word"</span>, <span class="tagOrange">"Access"</span>, <span class="tagOrange">"PowerPoint"</span>]; <br>
+                        <br>
+                        //What I like:<br>
+                        <span class="tagPurple">var</span> <span class="tagGreen">myInterests</span> <span class="tagPurple">=</span> [<span class="tagOrange">"visual arts"</span>, <span class="tagOrange">"music"</span>, <span class="tagOrange">"fashion design"</span>, <span class="tagOrange">"environmental preservation"</span>];
+                    </p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="padding">
+            <div id="projects">
+                <h1>My Projects:</h1>
+                <p>Try to scroll this page and look at the navigation bar while scrolling!</p>
+                <p>Try to scroll this page and look at the navigation bar while scrolling!</p>
+                <p>Try to scroll this page and look at the navigation bar while scrolling!</p>
+                <p>Try to scroll this page and look at the navigation bar while scrolling!</p>
+                <p>Try to scroll this page and look at the navigation bar while scrolling!</p>
+                <p>Try to scroll this page and look at the navigation bar while scrolling!</p>
+                <p>Try to scroll this page and look at the navigation bar while scrolling!</p>
+                <br><br><br>
+            </div>
+            
+            <div id="contact">
+                <h1>Contact Me:</h1>
+                    <a href="mailto:votommy@outlook.com"><img class="button" src="email.png" alt="Email Button"></a>
+                    <div>Send me an email.</div>
+                    <div>VoTommy@outlook.com</div>
+                    <a href="https://www.linkedin.com/in/votommy/" target="_blank"><img class="button" src="linkedIn.png" alt="Linked In Button"></a>
+                    <div>Visit my LinkedIn page.</div>
+                    <div>in/VoTommy</div>
+            </div>
+        </div>
+        
+        <footer>
+            <div class="padding">
+                <div class="row">
+                    <div class="col-sm-10">&copy; 2019 Tommy Vo</div>
+                    <div class="col-sm-1"><a href="mailto:votommy@outlook.com">Email</a></div>
+                    <div class="col-sm-1"><a href="https://www.linkedin.com/in/votommy/" target="_blank">LinkedIn</a></div>
+                </div>
+            </div>
+        </footer>
+        
+        <script src="Tommy.js"></script>
+    </body>
+</html>
