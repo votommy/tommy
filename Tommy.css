@@ -1,0 +1,302 @@
+* {
+    font-family: "Century Gothic", "Avenir", "Arial", "Arial";
+}
+
+html, body {
+    overflow-x: hidden; /*Prevents white space on smaller windows*/
+}
+
+/*Navbar---------------------------------------------------*/
+#hamburger {
+    width: 35px;
+    height: 20px;
+    position: relative;
+    margin: 18px;
+}
+#hamburger span { /*The three lines*/
+    display: block;
+    position: absolute;
+    height: 4px;
+    width: 100%;
+    background: dimgrey;
+    left: 0;
+    transition: .4s;
+}
+/*Closed menu*/
+#hamburger #top {
+    top: 0px; /*top*/
+}
+#hamburger #middle1, #hamburger #middle2 {
+    top: 12px; /*middle*/
+}
+#hamburger #bottom {
+    top: 24px; /*bottom*/
+}
+/*Opened menu*/
+#hamburger.x #top {
+    top: 12px; /*move to middle*/
+    transform: rotate(315deg);
+}
+#hamburger.x #middle1 {
+    transform: rotate(45deg);
+}
+#hamburger.x #middle2 {
+    transform: rotate(-45deg);
+}
+#hamburger.x #bottom {
+    top: 12px; /*move to middle*/
+    transform: rotate(-315deg);
+}
+.dropdown {
+    float: right;
+    position: relative;
+    display: block;
+}
+.navList {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    min-width: 210px;
+    padding-top: 15px;
+    border-radius: 24px 0;
+}
+.navList a {
+    color: lightgrey!important;
+    text-decoration: none;
+    font-size: 24px;
+    text-align: center;
+}
+.navList a:hover {
+    color: white !important;
+    text-decoration: none;
+}
+/*End navbar---------------------------------------------------*/
+
+@media screen and (min-width: 850px) { /*full size*/
+    .header {
+        font-size: 36px;
+    }
+    
+    .padding {
+        padding: 0 10% 0 10%;
+    }
+    
+    .jumbotron {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    
+    .landing {
+        background-image: url("images/landing_page/keyboard.png");
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 600px;
+    }
+    
+    .paper {
+        margin: 0 10% 0 10%;
+        padding: 2.5% 2.5% 6% 2.5%;
+        background-color: #282a36;
+        min-width: 70%;
+        border-radius: 20px;
+    }
+    .paper p {
+        font-family: "Courier", "Consolas";
+        color: white;
+        font-size: 14px;
+    }
+    
+    .workLogo {
+        width: 150px;
+    }
+} /*full-size*/
+
+@media screen and (max-width: 850px) { /*medium*/
+    .header {
+        font-size: 28px;
+    }
+    
+    .padding {
+        padding: 0 5% 0 5%;
+    }
+    
+    .landing {
+        background-image: url("images/landing_page/keyboard.png");
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 400px;
+    }
+    
+    .paper {
+        margin: 0 5% 0 5%;
+        padding: 1% 1% 4% 1%;
+        background-color: #282a36;
+        min-width: 70%;
+        border-radius: 20px;
+    }
+    .paper p {
+        font-family: "Courier", "Consolas";
+        color: white;
+        font-size: 13px;
+    }
+    .workLogo {
+        width: 125px;
+    }
+} /*medium*/
+
+@media screen and (max-width: 600px) { /*small*/
+    .header {
+        font-size: 20px;
+    }
+    
+    .padding {
+        padding: 0 1% 0 1%;
+    }
+    
+    .landing {
+        background-image: url("images/landing_page/keyboard.png");
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 300px;
+    }
+    
+    .paper {
+        margin: 0 1% 0 1%;
+        padding: 1% 1% 4% 1%;
+        background-color: #282a36;
+        min-width: 70%;
+        border-radius: 20px;
+    }
+    .paper p {
+        font-family: "Courier", "Consolas";
+        color: white;
+        font-size: 12px;
+    }
+    .workLogo {
+        width: 100px;
+    }
+} /*small*/
+
+.sig {
+    display: block;
+    margin: 8% auto 8% auto;
+    width: 65%;
+}
+#downAngle {
+    width: 4%;
+    position: sticky;
+    bottom: 10%;
+    left: 48%;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+  padding-top: 60px;
+}
+#navbar {
+    z-index: 1;
+}
+#navbar a {
+  float: right;
+  display: block;
+  color: darkgrey;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+}
+
+.tagPurple { /*Javascript visual format*/
+    color: #ff5bb9;
+    font-family: "Courier", "Consolas";
+}
+.tagGreen {
+    color: #4df06a;
+    font-family: "Courier", "Consolas";
+}
+.tagOrange {
+    color: orange;
+    font-family: "Courier", "Consolas";
+}
+.tagBlue {
+    color: dodgerblue;
+    font-family: "Courier", "Consolas";
+}
+.tagBlue:hover {
+    color: dodgerblue;
+    text-decoration: none;
+}
+
+#indent {
+    font-family: "Courier", "Consolas";
+    margin-left: 5%;
+}
+
+.badge { /*Custom badge colors*/
+    color: white;
+}
+.badge-green {
+    background-color: green;
+}
+.badge-purple {
+    background-color: rebeccapurple;
+}
+.badge-blue {
+    background-color: royalblue;
+}
+.badge-orange {
+    background-color: orange;
+}
+.badge-red {
+    background-color: rgb(200, 0, 0);
+}
+.badge-black {
+    background-color: rgb(50, 50, 50);
+}
+.badge-magenta {
+    background-color: magenta;
+}
+
+#awards, #contact, footer { /*Space between each section*/
+    margin-top: 5%;
+}
+
+.workTitle {
+    font-weight: bold;
+}
+.workDesc {
+    display: inline-block;
+    margin-left: 2%;
+}
+
+.button {
+    width: 10%;
+    height: 10%;
+}
+
+#contact a {
+    font-size: 16px;
+    color: darkgrey;
+    text-decoration: none;
+}
+#contact a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+footer {
+    font-size: 12px;
+    padding: 2% 0 2% 0;
+    border-top: 1px dashed lightgrey;
+    color: grey;
+    text-align: center;
+}
