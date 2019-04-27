@@ -1,5 +1,15 @@
+@font-face {
+    font-family: 'Hattori_Hanzo';
+    src: url('Hattori_Hanzo-webfont.eot');
+    src: url('Hattori_Hanzo-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Hattori_Hanzo-webfont.woff2') format('woff2'),
+         url('Hattori_Hanzo-webfont.woff') format('woff'),
+         url('Hattori_Hanzo-webfont.ttf') format('truetype'),
+         url('Hattori_Hanzo-webfont.svg#hattori_hanzolight') format('svg');
+}
+
 * {
-    font-family: "Century Gothic", "Avenir", "Arial", "Arial";
+    font-family: "Hattori_Hanzo", "Century Gothic", "Avenir";
 }
 
 html, body {
@@ -20,7 +30,7 @@ html, body {
     width: 100%;
     background: dimgrey;
     left: 0;
-    transition: .4s;
+    transition: .5s;
 }
 /*Closed menu*/
 #hamburger #top {
@@ -33,6 +43,9 @@ html, body {
     top: 24px; /*bottom*/
 }
 /*Opened menu*/
+#hamburger.x span{
+    background: darkorange;
+}
 #hamburger.x #top {
     top: 12px; /*move to middle*/
     transform: rotate(315deg);
@@ -57,14 +70,14 @@ html, body {
     position: absolute;
     right: 0;
     background-color: rgba(0, 0, 0, 0.7);
-    min-width: 210px;
+    min-width: 200px;
     padding-top: 15px;
     border-radius: 24px 0;
 }
 .navList a {
     color: lightgrey!important;
     text-decoration: none;
-    font-size: 24px;
+    font-size: 25px;
     text-align: center;
 }
 .navList a:hover {
@@ -115,7 +128,7 @@ html, body {
 
 @media screen and (max-width: 850px) { /*medium*/
     .header {
-        font-size: 28px;
+        font-size: 30px;
     }
     
     .padding {
@@ -149,7 +162,7 @@ html, body {
 
 @media screen and (max-width: 600px) { /*small*/
     .header {
-        font-size: 20px;
+        font-size: 26px;
     }
     
     .padding {
@@ -211,7 +224,7 @@ html, body {
   display: block;
   color: darkgrey;
   text-align: center;
-  padding: 15px;
+  padding: 8px 15px;
   text-decoration: none;
 }
 
@@ -284,7 +297,7 @@ html, body {
 }
 
 #contact a {
-    font-size: 16px;
+    font-size: 18px;
     color: darkgrey;
     text-decoration: none;
 }
@@ -294,7 +307,7 @@ html, body {
 }
 
 footer {
-    font-size: 12px;
+    font-size: 14px;
     padding: 2% 0 2% 0;
     border-top: 1px dashed lightgrey;
     color: grey;
