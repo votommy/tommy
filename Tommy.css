@@ -205,6 +205,17 @@ html, body {
     left: 48%;
 }
 
+#downAngle1,  #downAngle2, #downAngle3, #downAngle4 {
+    width: 2%;
+    position: sticky;
+    bottom: 10%;
+    left: 48%;
+    transition: .4s;
+}
+#downAngle1.flipped, #downAngle2.flipped, #downAngle3.flipped, #downAngle4.flipped {
+    transform: rotate(180deg);
+}
+
 .sticky {
   position: fixed;
   top: 0;

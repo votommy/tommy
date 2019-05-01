@@ -5,7 +5,7 @@ $(document).ready(function() { //jQuery
             }, 1000);
     });
 
-    $("#downAngle, #hamburger, .navAboutMe, .navExperience, .navAwards, .navContact").mouseover(function() { //toggle between cursor and pointer on hover
+    $("#downAngle, #hamburger, .navAboutMe, .navExperience, .navAwards, .navContact, #NW, #FP, #fed, #verizon").mouseover(function() { //toggle between cursor and pointer on hover
         $(this).css('cursor', 'pointer');
     });
     $(".navAboutMe").click(function() { //scrolls to About Me on click. Animate smooth scroll
@@ -27,6 +27,23 @@ $(document).ready(function() { //jQuery
         $('html, body').animate({
             scrollTop: $("#contact").offset().top
             }, 900);
+    });
+    
+    $("#NW").click(function() { //Show description on click
+        $("#NW p").slideToggle();
+        $("#downAngle1").toggleClass('flipped'); //Toggle between down and up arrow
+    });
+    $("#FP").click(function() {
+        $("#FP p").slideToggle();
+        $("#downAngle2").toggleClass('flipped');
+    });
+    $("#fed").click(function() {
+        $("#fed p").slideToggle();
+        $("#downAngle3").toggleClass('flipped');
+    });
+    $("#verizon").click(function() {
+        $("#verizon p").slideToggle();
+        $("#downAngle4").toggleClass('flipped');
     });
     
     $(".dropdown").click(function() {
