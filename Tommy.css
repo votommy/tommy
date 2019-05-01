@@ -2,9 +2,9 @@
     font-family: 'Hattori_Hanzo';
     src: url('Hattori_Hanzo-webfont.eot');
     src: url('Hattori_Hanzo-webfont.eot?#iefix') format('embedded-opentype'),
-         url('Hattori_Hanzo-webfont.woff') format('woff'),
-         url('Hattori_Hanzo-webfont.ttf') format('truetype'),
-         url('Hattori_Hanzo-webfont.svg#hattori_hanzolight') format('svg');
+        url('Hattori_Hanzo-webfont.woff') format('woff'),
+        url('Hattori_Hanzo-webfont.ttf') format('truetype'),
+        url('Hattori_Hanzo-webfont.svg#hattori_hanzolight') format('svg');
 }
 
 * {
@@ -210,7 +210,7 @@ html, body {
     position: sticky;
     bottom: 10%;
     left: 48%;
-    transition: .4s;
+    transition: .3s;
 }
 #downAngle1.flipped, #downAngle2.flipped, #downAngle3.flipped, #downAngle4.flipped {
     transform: rotate(180deg);
