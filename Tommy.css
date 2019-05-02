@@ -15,6 +15,10 @@ html, body {
     overflow-x: hidden; /*Prevents white space on smaller windows*/
 }
 
+#downAngle, #hamburger, .navAboutMe, .navExperience, .navAwards, .navContact, #NW, #FP, #fed, #verizon {
+    cursor: pointer;
+}
+
 /*Navbar---------------------------------------------------*/
 #hamburger {
     width: 35px;
@@ -210,7 +214,7 @@ html, body {
     position: sticky;
     bottom: 10%;
     left: 48%;
-    transition: .3s;
+    transition: .4s;
 }
 #downAngle1.flipped, #downAngle2.flipped, #downAngle3.flipped, #downAngle4.flipped {
     transform: rotate(180deg);

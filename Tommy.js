@@ -4,10 +4,6 @@ $(document).ready(function() { //jQuery
             scrollTop: $("#aboutMe").offset().top
             }, 1000);
     });
-
-    $("#downAngle, #hamburger, .navAboutMe, .navExperience, .navAwards, .navContact, #NW, #FP, #fed, #verizon").mouseover(function() { //toggle between cursor and pointer on hover
-        $(this).css('cursor', 'pointer');
-    });
     $(".navAboutMe").click(function() { //scrolls to About Me on click. Animate smooth scroll
         $('html, body').animate({
             scrollTop: $("#aboutMe").offset().top
@@ -70,28 +66,12 @@ function scrollFunction() {
     }
 }
 
-//blinking input cursor
-function blink() { //Credit: w3docs
-    var blinks = document.getElementsByClassName("blink");
-    for (var i = 0; i <= blinks.length - 1; i++) {
-        var s = blinks[i];
-        s.style.visibility = (s.style.visibility == 'visible') ? 'hidden' : 'visible';
-    }
-    window.setTimeout(blink, 550);
+function blinkFunction() { //Blinking input cursor in "About Me" section
+    var blinkElement = document.getElementsByClassName("blink")[0];
+    blinkElement.style.visibility = (blinkElement.style.visibility == 'visible') ? 'hidden' : 'visible';
+    window.setTimeout(blinkFunction, 550);
 }
-      
-if (document.addEventListener) {
-    document.addEventListener("DOMContentLoaded", blink, false);
-}
-else if (window.addEventListener) {
-    window.addEventListener("load", blink, false);
-}
-else if (window.attachEvent) {
-    window.attachEvent("onload", blink);
-}
-else {
-    window.onload = blink;
-} //end blinking input cursor
+blinkFunction();
 
 var year = new Date().getFullYear(); //Automatically update copyright year
 document.getElementById("copyrightDate").innerHTML = "&copy;" + year + " Developed by Tommy Vo | All rights reserved";
