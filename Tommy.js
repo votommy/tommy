@@ -70,5 +70,27 @@ function scrollFunction() {
     }
 }
 
+function blink() { //blinking input cursor
+    var blinks = document.getElementsByClassName("blink");
+    for (var i = 0; i <= blinks.length - 1; i++) {
+        var s = blinks[i];
+        s.style.visibility = (s.style.visibility == 'visible') ? 'hidden' : 'visible';
+    }
+    window.setTimeout(blink, 550);
+}
+      
+if (document.addEventListener) {
+    document.addEventListener("DOMContentLoaded", blink, false);
+}
+else if (window.addEventListener) {
+    window.addEventListener("load", blink, false);
+}
+else if (window.attachEvent) {
+    window.attachEvent("onload", blink);
+}
+else {
+    window.onload = blink;
+} //end blinking input cursor
+
 var year = new Date().getFullYear(); //Automatically update copyright year
 document.getElementById("copyrightDate").innerHTML = "&copy;" + year + " Developed by Tommy Vo | All rights reserved";
