@@ -70,7 +70,8 @@ function scrollFunction() {
     }
 }
 
-function blink() { //blinking input cursor
+//blinking input cursor
+function blink() { //Credit: w3docs
     var blinks = document.getElementsByClassName("blink");
     for (var i = 0; i <= blinks.length - 1; i++) {
         var s = blinks[i];
