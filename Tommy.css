@@ -15,7 +15,7 @@ html, body {
     overflow-x: hidden; /*Prevents white space on smaller windows*/
 }
 
-#downAngle, #hamburger, .navAboutMe, .navExperience, .navAwards, .navContact, #NW, #FP, #fed, #verizon {
+#downAngle, #hamburger, .navAboutMe, .navExperience, .navAwards, .navContact, #NW, #FP, #fed, #verizon, #TommyWebpage {
     cursor: pointer;
 }
 
@@ -293,7 +293,7 @@ html, body {
     background-color: magenta;
 }
 
-#awards, #contact, footer { /*Space between each section*/
+#awards, #projects, #contact, footer { /*Space between each section*/
     margin-top: 5%;
 }
 
@@ -303,6 +303,13 @@ html, body {
 .workDesc {
     display: inline-block;
     margin-left: 2%;
+}
+
+#projects p {
+    padding: 25px;
+    border: 1px lightgrey solid;
+    text-align: center;
+    border-radius: 0 0 15px 15px;
 }
 
 .button {

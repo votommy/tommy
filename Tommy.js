@@ -19,6 +19,11 @@ $(document).ready(function() { //jQuery
             scrollTop: $("#awards").offset().top
             }, 900);
     });
+    $(".navProjects").click(function() { //scrolls to Awards on click. Animate smooth scroll
+        $('html, body').animate({
+            scrollTop: $("#projects").offset().top
+            }, 900);
+    });
     $(".navContact").click(function() { //scrolls to Contact on click. Animate smooth scroll
         $('html, body').animate({
             scrollTop: $("#contact").offset().top
@@ -40,6 +45,9 @@ $(document).ready(function() { //jQuery
     $("#verizon").click(function() {
         $("#verizon p").slideToggle();
         $("#downAngle4").toggleClass('flipped');
+    });
+    $("#projects").click(function() {
+        $("#projects p").slideToggle();
     });
     
     $(".dropdown").click(function() {
