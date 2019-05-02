@@ -292,6 +292,10 @@ html, body {
 .badge-magenta {
     background-color: magenta;
 }
+.badge-yellow {
+    color: black;
+    background-color: yellow;
+}
 
 #awards, #projects, #contact, footer { /*Space between each section*/
     margin-top: 5%;
