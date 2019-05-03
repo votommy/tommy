@@ -46,9 +46,6 @@ $(document).ready(function() { //jQuery
         $("#verizon p").slideToggle();
         $("#downAngle4").toggleClass('flipped');
     });
-    $("#projects").click(function() {
-        $("#projects p").slideToggle();
-    });
     
     $(".dropdown").click(function() {
         $(".navList").toggle(); //Toggle visibility of dropdown menu in mobile
