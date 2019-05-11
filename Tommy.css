@@ -29,7 +29,7 @@ html, body {
 #hamburger span { /*The three lines*/
     display: block;
     position: absolute;
-    height: 5px;
+    height: 4px;
     width: 100%;
     background: dimgrey;
     left: 0;
