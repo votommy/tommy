@@ -51,7 +51,7 @@ html, body {
 }
 #hamburger.x #top {
     top: 12px; /*move to middle*/
-    transform: rotate(315deg);
+    transform: rotate(135deg);
 }
 #hamburger.x #middle1 {
     transform: rotate(45deg);
@@ -61,7 +61,7 @@ html, body {
 }
 #hamburger.x #bottom {
     top: 12px; /*move to middle*/
-    transform: rotate(-315deg);
+    transform: rotate(-135deg);
 }
 .dropdown {
     float: right;
