@@ -47,7 +47,7 @@ html, body {
 }
 /*Opened menu*/
 #hamburger.x span{
-    background: darkorange;
+    background: #e16832;
 }
 #hamburger.x #top {
     top: 12px; /*move to middle*/
