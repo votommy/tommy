@@ -30,6 +30,10 @@ $(document).ready(function() { //jQuery
             }, 900);
     });
     
+    $("#NW1").click(function() { //Show description on click
+        $("#NW1 p").slideToggle();
+        $("#downAngle0").toggleClass('flipped'); //Toggle between down and up arrow
+    });
     $("#NW").click(function() { //Show description on click
         $("#NW p").slideToggle();
         $("#downAngle1").toggleClass('flipped'); //Toggle between down and up arrow

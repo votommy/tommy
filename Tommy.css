@@ -15,7 +15,7 @@ html, body {
     overflow-x: hidden; /*Prevents white space on smaller windows*/
 }
 
-#downAngle, #hamburger, .navAboutMe, .navExperience, .navAwards, .navContact, #NW, #FP, #fed, #verizon {
+#downAngle, #hamburger, .navAboutMe, .navExperience, .navAwards, .navContact, #NW1, #NW, #FP, #fed, #verizon {
     cursor: pointer;
 }
 
@@ -249,14 +249,14 @@ html, body {
     left: 48%;
 }
 
-#downAngle1,  #downAngle2, #downAngle3, #downAngle4 {
+#downAngle0, #downAngle1,  #downAngle2, #downAngle3, #downAngle4 {
     width: 2%;
     position: sticky;
     bottom: 10%;
     left: 48%;
     transition: .4s;
 }
-#downAngle1.flipped, #downAngle2.flipped, #downAngle3.flipped, #downAngle4.flipped {
+#downAngle0.flipped, #downAngle1.flipped, #downAngle2.flipped, #downAngle3.flipped, #downAngle4.flipped {
     transform: rotate(180deg);
 }
 
