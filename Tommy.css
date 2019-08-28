@@ -89,7 +89,47 @@ html, body {
 }
 /*End navbar---------------------------------------------------*/
 
-@media screen and (min-width: 1399px) { /*XL*/
+@media screen and (min-width: 1799px) { /*XXL*/
+    .header {
+        font-size: 36px;
+    }
+    
+    .padding {
+        padding: 0 10% 0 10%;
+    }
+    
+    .jumbotron {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    
+    .landing {
+        background-image: url("images/landing_page/keyboard.png");
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 850px;
+    }
+    
+    .paper {
+        margin: 0 10% 0 10%;
+        padding: 2.5% 2.5% 6% 2.5%;
+        background-color: #282a36;
+        min-width: 70%;
+        border-radius: 20px;
+    }
+    .paper p {
+        font-family: "Courier", "Consolas";
+        color: white;
+        font-size: 14px;
+    }
+    
+    .workLogo {
+        width: 150px;
+    }
+} /*XXL*/
+
+@media screen and (max-width: 1799px) { /*XL*/
     .header {
         font-size: 36px;
     }
@@ -127,7 +167,7 @@ html, body {
     .workLogo {
         width: 150px;
     }
-} /*XL*/
+} /*XXL*/
 
 @media screen and (max-width: 1399px) { /*full-size*/
     .header {
