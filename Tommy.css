@@ -15,7 +15,7 @@ html, body {
     overflow-x: hidden; /*Prevents white space on smaller windows*/
 }
 
-#downAngle, #hamburger, .navAboutMe, .navExperience, .navAwards, .navContact, #NW1, #NW, #FP, #fed, #verizon {
+#sig, #hamburger, .navAboutMe, .navExperience, .navAwards, .navContact, #NW1, #NW, #FP, #fed, #verizon {
     cursor: pointer;
 }
 
@@ -89,7 +89,7 @@ html, body {
 }
 /*End navbar---------------------------------------------------*/
 
-@media screen and (min-width: 999px) { /*full-size*/
+@media screen and (min-width: 1399px) { /*XL*/
     .header {
         font-size: 36px;
     }
@@ -108,7 +108,47 @@ html, body {
         background-attachment: fixed;
         background-repeat: no-repeat;
         background-size: cover;
-        height: 800px;
+        height: 750px;
+    }
+    
+    .paper {
+        margin: 0 10% 0 10%;
+        padding: 2.5% 2.5% 6% 2.5%;
+        background-color: #282a36;
+        min-width: 70%;
+        border-radius: 20px;
+    }
+    .paper p {
+        font-family: "Courier", "Consolas";
+        color: white;
+        font-size: 14px;
+    }
+    
+    .workLogo {
+        width: 150px;
+    }
+} /*XL*/
+
+@media screen and (max-width: 1399px) { /*full-size*/
+    .header {
+        font-size: 36px;
+    }
+    
+    .padding {
+        padding: 0 10% 0 10%;
+    }
+    
+    .jumbotron {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    
+    .landing {
+        background-image: url("images/landing_page/keyboard.png");
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 600px;
     }
     
     .paper {
@@ -148,7 +188,7 @@ html, body {
         background-attachment: fixed;
         background-repeat: no-repeat;
         background-size: cover;
-        height: 600px;
+        height: 500px;
     }
     
     .paper {
@@ -237,7 +277,7 @@ html, body {
     }
 } /*small*/
 
-.sig {
+#sig {
     display: block;
     margin: 8% auto 8% auto;
     width: 65%;

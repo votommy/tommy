@@ -1,5 +1,5 @@
 $(document).ready(function() { //jQuery
-    $("#downAngle").click(function() { //scrolls to aboutMe on click. Animate smooth scroll
+    $("#sig").click(function() { //scrolls to aboutMe on click. Animate smooth scroll
         $('html, body').animate({
             scrollTop: $("#aboutMe").offset().top
             }, 1000);
