@@ -2,7 +2,7 @@
     background-color: #141414;
 }
 
-.list-group-item {
+.list-group-item, #projects p {
     background-color: #141414 !important;
     border-color: dimgray !important;
 }
