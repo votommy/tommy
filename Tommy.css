@@ -22,7 +22,7 @@ html, body {
 /*Navbar---------------------------------------------------*/
 .switch {
     position: relative;
-    display: inline-block;
+    display: block;
     width: 60px;
     height: 34px;
     margin: 18px;
@@ -64,12 +64,6 @@ input:checked + .slider {
 
 input:checked + .slider:before {
     transform: translateX(26px);
-}
-
-#toggleLabel {
-    font-weight: normal;
-    color: gray;
-    font-size: 85%;
 }
 
 #hamburger {
