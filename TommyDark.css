@@ -1,0 +1,28 @@
+#body, .projectsParagraph {
+    background-color: #141414;
+}
+
+.list-group-item {
+    background-color: #141414 !important;
+    border-color: dimgray !important;
+}
+
+.workParagraph, .projectsParagraph{
+    color: white;
+}
+
+.workDesc {
+    color: white;
+}
+
+.header {
+    color: white;
+}
+
+.aboutMe {
+    background-color: #191D20 !important;
+}
+
+.paper {
+    background-color: #090B17;
+}

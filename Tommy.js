@@ -75,6 +75,19 @@ function scrollFunction() {
     }
 }
 
+function toggleDarkMode() {
+    //Get TommyDark.css
+    var darkSheet = document.styleSheets[1];
+    
+    toggleButton = document.getElementById("toggleButton");
+    if(toggleButton.checked == true) {
+        darkSheet.disabled = false;
+    }
+    else {
+        darkSheet.disabled = true;
+    }
+}
+
 function blinkFunction() { //Blinking input cursor in "About Me" section
     var blinkElement = document.getElementsByClassName("blink")[0];
     blinkElement.style.visibility = (blinkElement.style.visibility == 'visible') ? 'hidden' : 'visible';
