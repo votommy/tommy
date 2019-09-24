@@ -487,6 +487,13 @@ input:checked + .slider:before {
     margin-left: 2%;
 }
 
+#review {
+    font-style: italic;
+}
+#reviewAuthor {
+    float: right;
+}
+
 #projects p {
     padding: 25px;
     border: 1px lightgrey solid;
