@@ -20,9 +20,17 @@
 }
 
 .aboutMe {
-    background-color: #191D20 !important;
+    background-color: #262B2E !important;
 }
 
 .paper {
     background-color: #090B17;
+}
+
+ol.carousel-indicators li {
+  background-color: grey;
+}
+
+ol.carousel-indicators li.active {
+  background-color: white;
 }

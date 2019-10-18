@@ -525,6 +525,14 @@ input:checked + .slider:before {
     border-radius: 0 0 15px 15px;
 }
 
+ol.carousel-indicators li {
+  background-color: grey;
+}
+
+ol.carousel-indicators li.active {
+  background-color: black;
+}
+
 .button {
     width: 10%;
     height: 10%;

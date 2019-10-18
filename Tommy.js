@@ -55,6 +55,10 @@ $(document).ready(function() { //jQuery
         $(".navList").toggle(); //Toggle visibility of dropdown menu in mobile
         $("#hamburger").toggleClass('x'); //Toggle between hamburger and X
     });
+    
+    $(".carousel").carousel({
+        interval: 5000
+    });
 }); //End jQuery
 
 //Javascript ---------------------------------------------------
