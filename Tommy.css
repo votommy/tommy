@@ -525,6 +525,10 @@ input:checked + .slider:before {
     border-radius: 0 0 15px 15px;
 }
 
+.carousel-control-prev, .carousel-control-next {
+    transform: scale(.5);
+}
+
 ol.carousel-indicators li {
   background-color: grey;
 }

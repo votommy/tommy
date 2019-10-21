@@ -30,3 +30,8 @@
 ol.carousel-indicators li.active {
   background-color: white;
 }
+
+#contact a:hover {
+    color: white;
+    text-decoration: none;
+}

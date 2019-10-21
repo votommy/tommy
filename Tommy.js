@@ -56,8 +56,9 @@ $(document).ready(function() { //jQuery
         $("#hamburger").toggleClass('x'); //Toggle between hamburger and X
     });
     
+    //timing of the slideshow
     $(".carousel").carousel({
-        interval: 5000
+        interval: 7000
     });
 }); //End jQuery
 
