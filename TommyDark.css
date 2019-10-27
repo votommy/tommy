@@ -2,6 +2,10 @@
     background-color: #141414;
 }
 
+#hamburger span { /*The three lines*/
+    background: white;
+}
+
 .list-group-item, #projects p {
     background-color: #141414 !important;
     border-color: dimgray !important;
