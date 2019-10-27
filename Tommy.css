@@ -470,33 +470,46 @@ input:checked + .slider:before {
     margin-left: 5%;
 }
 
-.badge { /*Custom badge colors*/
-    color: white;
-}
+/*Custom badge colors*/
 .badge-green {
     background-color: green;
+    border: 1px solid green;
+    color: white;
 }
 .badge-purple {
     background-color: rebeccapurple;
+    border: 1px solid rebeccapurple;
+    color: white;
 }
 .badge-blue {
     background-color: royalblue;
+    border: 1px solid royalblue;
+    color: white;
 }
 .badge-orange {
     background-color: orange;
+    border: 1px solid orange;
+    color: white;
 }
 .badge-red {
     background-color: rgb(200, 0, 0);
+    border: 1px solid rgb(200, 0, 0);
+    color: white;
 }
 .badge-black {
     background-color: rgb(50, 50, 50);
+    border: 1px solid rgb(50, 50, 50);
+    color: white;
 }
 .badge-magenta {
     background-color: magenta;
+    border: 1px solid magenta;
+    color: white;
 }
 .badge-yellow {
-    color: black;
     background-color: yellow;
+    border: 1px solid yellow;
+    color: black;
 }
 
 #awards, #projects, #contact, footer { /*Space between each section*/

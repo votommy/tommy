@@ -27,6 +27,47 @@
     background-color: #090B27;
 }
 
+.badge-green {
+    background-color: transparent;
+    border: 1px solid green;
+    color: green;
+}
+.badge-purple {
+    background-color: transparent;
+    border: 1px solid rebeccapurple;
+    color: rebeccapurple;
+}
+.badge-blue {
+    background-color: transparent;
+    border: 1px solid royalblue;
+    color: royalblue;
+}
+.badge-orange {
+    background-color: transparent;
+    border: 1px solid orange;
+    color: orange;
+}
+.badge-red {
+    background-color: transparent;
+    border: 1px solid rgb(200, 0, 0);
+    color: rgb(200, 0, 0);
+}
+.badge-black {
+    background-color: transparent;
+    border: 1px solid rgb(110, 110, 110);
+    color: rgb(110, 110, 110);
+}
+.badge-magenta {
+    background-color: transparent;
+    border: 1px solid magenta;
+    color: magenta;
+}
+.badge-yellow {
+    color: yellow;
+    background-color: transparent;
+    border: 1px solid yellow;
+}
+
 ol.carousel-indicators li.active {
   background-color: white;
 }
