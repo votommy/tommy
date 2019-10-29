@@ -577,7 +577,7 @@ ol.carousel-indicators li.active {
     position: absolute;
     width: 250px;
     left: 50%;
-    margin-left: -125px; /* Half of width*/
+    margin-left: -20%; /* Use half of the width (120/2 = 60), to center the tooltip */
 }
 
 .tooltipCSS:hover .tooltiptextCSS {
