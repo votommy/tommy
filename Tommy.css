@@ -565,6 +565,25 @@ ol.carousel-indicators li.active {
     text-decoration: none;
 }
 
+.tooltiptextCSS {
+    visibility: hidden;
+    background-color: #e16832;
+    color: white;
+    border-radius: 6px;
+    text-align: center;
+    padding: 2px;
+    z-index: 1;
+    font-size: 14px;
+    position: absolute;
+    width: 250px;
+    left: 50%;
+    margin-left: -125px; /* Half of width*/
+}
+
+.tooltipCSS:hover .tooltiptextCSS {
+    visibility: visible;
+}
+
 footer {
     font-size: 14px;
     padding: 2% 0 2% 0;
