@@ -540,13 +540,13 @@ input:checked + .slider:before {
 
 .ongoingProjectsContainer {
     position: relative;
-    color: white;
 }
 
 .paperText {
     position: absolute;
     top: 34px;
     left: 44px;
+    color: white;
 }
 
 .carousel-control-prev, .carousel-control-next {
