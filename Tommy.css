@@ -532,12 +532,13 @@ input:checked + .slider:before {
 }
 
 #projects p {
-    padding: 10px;
+    padding: 1px 10px 5px 10px;
     border: 1px lightgrey solid;
     text-align: center;
     border-radius: 0 0 15px 15px;
 }
 
+/*
 .ongoingProjectsContainer {
     position: relative;
 }
@@ -548,6 +549,7 @@ input:checked + .slider:before {
     left: 44px;
     color: white;
 }
+*/
 
 .carousel-control-prev, .carousel-control-next {
     transform: scale(.5);
