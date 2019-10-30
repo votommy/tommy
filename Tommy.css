@@ -538,6 +538,17 @@ input:checked + .slider:before {
     border-radius: 0 0 15px 15px;
 }
 
+.ongoingProjectsContainer {
+    position: relative;
+    color: white;
+}
+
+.paperText {
+    position: absolute;
+    top: 34px;
+    left: 44px;
+}
+
 .carousel-control-prev, .carousel-control-next {
     transform: scale(.5);
 }
