@@ -50,6 +50,10 @@ $(document).ready(function() { //jQuery
         $("#verizon p").slideToggle();
         $("#downAngle4").toggleClass('flipped');
     });
+    $("#evergy").click(function() {
+        $("#evergy p").slideToggle();
+        $("#downAngle5").toggleClass('flipped');
+    });
     
     $(".dropdown").click(function() {
         $(".navList").toggle(); //Toggle visibility of dropdown menu in mobile
