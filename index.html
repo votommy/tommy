@@ -16,7 +16,7 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
     </head>
     
-    <body id="body" data-spy="scroll" data-target=".navbar">
+    <body id="body" data-spy="scroll" data-target=".navbar" onload="toggleDarkMode()">
         <div class="jumbotron jumbotron-fluid landing">
             <img src="images/landing_page/sig.png" id="sig" alt="Tommy's signature">
             <!--<img src="images/landing_page/downAngle.png" id="downAngle" alt="down button">-->
@@ -39,7 +39,7 @@
                 </div>
             </div>
             <label class="switch">
-                <input type="checkbox" id="toggleButton" onChange="toggleDarkMode()" checked>
+                <input type="checkbox" id="toggleButton" onChange="toggleDarkMode()">
                 <span class="slider"></span>
             </label>
         </nav>
@@ -74,7 +74,7 @@
                         <span class="tagPurple">var</span> <span class="tagGreen">myInterests</span> <span class="tagPurple">=</span> [<span class="tagOrange">"visual arts"</span>, <span class="tagOrange">"music"</span>, <span class="tagOrange">"fashion design"</span>, <span class="tagOrange">"environmental preservation"</span>]; <br>
                         <br>
                         //My Résumé: (Click or tap the link below!)<br>
-                        <span class="tagPurple">var</span> <span class="tagGreen">resume</span> <span class="tagPurple">=</span> <a class="tagBlue" href="TommyVo_Resume.pdf#zoom=20" target="_blank">TommyVo_Resume.pdf</a>;<span class="blink">&#9614;</span>
+                        <span class="tagPurple">var</span> <span class="tagGreen">resume</span> <span class="tagPurple">=</span> <a class="tagBlue" href="TommyVo_Resume.pdf#zoom=20" target="_blank" rel="noopener noreferrer">TommyVo_Resume.pdf</a>;<span class="blink">&#9614;</span>
                     </p>
                 </div>
             </div>
@@ -237,7 +237,7 @@
                                 <img id="SnowieWebpage" src="images/showcases/SnowieShowcase.png" style="width: 100%;" alt="Snowie webpage showcase image">
                                 <p class="projectsParagraph">
                                     In 2018, along with a team of 4, I created a website for a local business, Snowie x A&amp;M Amusements. The site was done in pure HTML and CSS with minimal Javascript.<br>
-                                    <a href="https://votommy.github.io/Snowie" target="_blank">[Visit the site]</a><br>
+                                    <a href="https://votommy.github.io/Snowie" target="_blank" rel="noopener noreferrer">[Visit the site]</a><br>
                                     <span class="badge badge-pill badge-orange">HTML</span>
                                     <span class="badge badge-pill badge-purple">CSS</span>
                                     <span class="badge badge-pill badge-yellow">Javascript</span>
@@ -281,7 +281,7 @@
         <div class="padding">            
             <div id="contact">
                 <span class="header">Contact Me:</span><br>
-                <a class="tooltipCSS" href="TommyVo_Resume.pdf#zoom=20" target="_blank">
+                <a class="tooltipCSS" href="TommyVo_Resume.pdf#zoom=20" target="_blank" rel="noopener noreferrer">
                     <img class="button" src="images/contact/email.png" alt="Email Button">
                     <div style="display: inline-block; margin: 5% 0 5% 2%;">
                         Write me an email <span style="font-size: 13px;">(preferred method).</span><br>
@@ -289,14 +289,14 @@
                     </div>
                     <span class="tooltiptextCSS">Email isn't displayed on the site to avoid web scrapers.</span>
                 </a><br>
-                <a href="https://www.linkedin.com/in/votommy/" target="_blank">
+                <a href="https://www.linkedin.com/in/votommy/" target="_blank" rel="noopener noreferrer">
                     <img class="button" src="images/contact/linkedIn.png" alt="Linked In Button">
                     <div style="display: inline-block; margin: 5% 0 5% 2%;">
                         Message me on LinkedIn.<br>
                         in/VoTommy
                     </div>
                 </a><br>
-                <a class="tooltipCSS" href="TommyVo_Resume.pdf#zoom=20" target="_blank">
+                <a class="tooltipCSS" href="TommyVo_Resume.pdf#zoom=20" target="_blank" rel="noopener noreferrer">
                     <img class="button" src="images/contact/phone.png" alt="Phone Button">
                     <div style="display: inline-block; margin: 5% 0 5% 2%;">
                         Send me a text / voicemail.<br>

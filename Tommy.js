@@ -72,8 +72,8 @@ window.onscroll = function() {
     scrollFunction();
 };
 
-var navbar = document.getElementById("navbar");
-var topOffset = navbar.offsetTop;
+const navbar = document.getElementById("navbar");
+const topOffset = navbar.offsetTop;
 // Toggle sticky navbar when the scroll position is reached.
 function scrollFunction() {
     if (window.pageYOffset >= topOffset) {
@@ -86,7 +86,7 @@ function scrollFunction() {
 
 function toggleDarkMode() {
     //Get TommyDark.css
-    var darkSheet = document.styleSheets[1];
+    const darkSheet = document.styleSheets[1];
     
     toggleButton = document.getElementById("toggleButton");
     if(toggleButton.checked == true) {
@@ -98,11 +98,11 @@ function toggleDarkMode() {
 }
 
 function blinkFunction() { //Blinking input cursor in "About Me" section
-    var blinkElement = document.getElementsByClassName("blink")[0];
+    const blinkElement = document.getElementsByClassName("blink")[0];
     blinkElement.style.visibility = (blinkElement.style.visibility == 'visible') ? 'hidden' : 'visible';
     window.setTimeout(blinkFunction, 550);
 }
 blinkFunction();
 
-var year = new Date().getFullYear(); //Automatically update copyright year
+let year = new Date().getFullYear(); //Automatically update copyright year
 document.getElementById("copyrightDate").innerHTML = "&copy;" + year + " Developed by Tommy Vo | All rights reserved";
