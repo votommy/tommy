@@ -38,10 +38,6 @@ $(document).ready(function() { //jQuery
         $("#NW p").slideToggle();
         $("#downAngle1").toggleClass('flipped'); //Toggle between down and up arrow
     });
-    $("#FP").click(function() {
-        $("#FP p").slideToggle();
-        $("#downAngle2").toggleClass('flipped');
-    });
     $("#fed").click(function() {
         $("#fed p").slideToggle();
         $("#downAngle3").toggleClass('flipped');

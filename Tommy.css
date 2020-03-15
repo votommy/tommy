@@ -15,7 +15,7 @@ html, body {
     overflow-x: hidden; /*Prevents white space on smaller windows*/
 }
 
-#sig, #hamburger, .navAboutMe, .navExperience, .navAwards, .navContact, #NW1, #NW, #FP, #fed, #verizon {
+#sig, #hamburger, .navAboutMe, .navExperience, .navAwards, .navContact, #NW1, #NW, #fed, #verizon {
     cursor: pointer;
 }
 
