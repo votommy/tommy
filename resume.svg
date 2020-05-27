@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -10,34 +8,35 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="850mm"
-   height="1099.9994mm"
-   viewBox="0 0 850 1099.9994"
-   version="1.1"
+   sodipodi:docname="resume.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="resume.svg">
+   version="1.1"
+   viewBox="0 0 850 1099.9994"
+   height="1099.9994mm"
+   width="850mm">
   <defs
      id="defs2" />
   <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="1659.9746"
-     inkscape:cy="-43.0363"
-     inkscape:document-units="mm"
-     inkscape:current-layer="g5137"
-     showgrid="false"
-     showguides="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
-     inkscape:window-x="-8"
+     inkscape:document-rotation="0"
+     inkscape:window-maximized="1"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-x="-8"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     showguides="false"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="2237.0573"
+     inkscape:cx="1634.1405"
+     inkscape:zoom="0.175"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -51,1016 +50,1002 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
+     transform="translate(425.75595,398.14258)"
      id="layer1"
-     transform="translate(425.75595,398.14258)">
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
     <flowRoot
-       xml:space="preserve"
+       transform="translate(-152.93821,60.871067)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:2.26772;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="flowRoot5476"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:2.26771665;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       transform="translate(-152.93821,60.871067)"><flowRegion
+       xml:space="preserve"><flowRegion
          id="flowRegion5478"><rect
-           id="rect5480"
-           width="2599.2327"
-           height="582.90265"
+           y="-435.55347"
            x="-1173.1375"
-           y="-435.55347" /></flowRegion><flowPara
-         id="flowPara5482" /></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.12847614px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35736558;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       x="-395.49963"
+           height="582.90265"
+           width="2599.2327"
+           id="rect5480" /></flowRegion><flowPara
+         id="flowPara5482" /></flowRoot>
+    <text
+       id="text5648"
        y="28.135094"
-       id="text5648"><tspan
-         sodipodi:role="line"
-         id="tspan5646"
-         x="-395.49963"
-         y="41.869854"
-         style="fill:#000000;stroke-width:0.35736558" /></text>
+       x="-395.49963"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.1285px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.357366;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve" />
     <g
-       id="g5186"
-       transform="translate(-6.0476089,42.333324)" />
+       transform="translate(-6.0476089,42.333324)"
+       id="g5186" />
     <rect
-       style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.30413276;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       id="rect4319"
-       width="850"
+       y="-398.14258"
+       x="-425.75595"
        height="101.94425"
-       x="-425.75595"
-       y="-398.14258" />
+       width="850"
+       id="rect4319"
+       style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.304133;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
     <g
-       id="g4333"
-       transform="matrix(0.85465744,0,0,0.85465744,-186.44135,-6.079364)">
+       transform="matrix(0.85465744,0,0,0.85465744,-186.44135,-6.079364)"
+       id="g4333">
       <g
-         id="g6259"
-         transform="translate(0,-1.5831118)">
+         transform="translate(0,-1.5831118)"
+         id="g6259">
         <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.60152817px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.75596571;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           x="-231.22537"
+           id="text4323"
            y="-395.87933"
-           id="text4323"><tspan
-             sodipodi:role="line"
-             id="tspan4321"
-             x="-231.22537"
+           x="-231.22537"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.6015px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.75597;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.2982px;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';fill:#ffffff;stroke-width:1.75597"
              y="-395.87933"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.29816818px;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';fill:#ffffff;stroke-width:1.75596571">TOMMY VO</tspan></text>
+             x="-231.22537"
+             id="tspan4321"
+             sodipodi:role="line">TOMMY VO</tspan></text>
         <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.66623688px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.97111171;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           x="-230.83678"
+           id="text4327"
            y="-366.0166"
-           id="text4327"><tspan
-             sodipodi:role="line"
-             id="tspan4325"
-             x="-230.83678"
+           x="-230.83678"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.6662px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.971112;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.971112"
              y="-366.0166"
-             style="stroke-width:0.97111171">Software Developer</tspan></text>
+             x="-230.83678"
+             id="tspan4325"
+             sodipodi:role="line">Software / Web Developer</tspan></text>
       </g>
     </g>
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.60636592;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       id="rect5019"
-       width="628.82068"
-       height="998.05518"
+       y="-296.19833"
        x="-425.75595"
-       y="-296.19833" />
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.51552093;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       id="rect4339"
-       width="221.17935"
        height="998.05518"
+       width="628.82068"
+       id="rect5019"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.60636592;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <rect
+       y="-296.19833"
        x="203.0647"
-       y="-296.19833" />
+       height="998.05518"
+       width="221.17935"
+       id="rect4339"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.51552093;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.16550255px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.8726576;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       x="211.4613"
+       id="text4343"
        y="-262.49146"
-       id="text4343"><tspan
-         sodipodi:role="line"
-         id="tspan4341"
-         x="211.4613"
+       x="211.4613"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.1655px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.872658;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         style="fill:#000000;stroke-width:0.872658"
          y="-262.49146"
-         style="fill:#000000;stroke-width:0.8726576">Personal Info</tspan></text>
+         x="211.4613"
+         id="tspan4341"
+         sodipodi:role="line">Personal Info</tspan></text>
     <g
-       id="g4884"
-       transform="translate(-152.93821,43.130121)">
+       transform="translate(-152.93821,43.130121)"
+       id="g4884">
       <image
-         width="18.076199"
-         height="18.076199"
-         preserveAspectRatio="none"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAQAAADa613fAAAAAmJLR0QA/4ePzL8AAAQ+SURBVHja 7ZtfaNVlGMc/trk1a22hm2kuZ2hMcWStP3olxW6S/dGQCWKyRMwIMSWdkxEUZcrcyILwQjC62EXq 8Gqh1I2G5qai2KiY1cSWqaOQqdPcOW8XNjjuzzm/87zv+3vfH5zvc/99zgfO++95nh9klFFGGWV0 X5OYSwWV1FJLJRWUkReln19IDa0cpZc4akTE6eUILVRT4DNCCY10MTTq548VQ3SyjRm+IWSxgu+I BUJIjBjfUsdDfkBMZDU/p42QGL+ykVzXGFX8pgUxHBd5zR3ETA4bgRiOdkpcYCzjH6MYCsUNVoQL kcse4xDD8VV4p83jfG8NQ6H4gclhYEzjvFUMhaLb/mop5ZJ1DIWil5k2MabwUygYCkUPU21h5HM6 NAyFopNH7YAcDBVDofjaBsaG0DEUivWmMZ7njhOQQZ41e7s96wRDoThNljmQjc4wFIq3TWE8wQ2n IH9TbAbkU6cYCkWzCYzJDDgHuUmRPsgO5xgKxYe6GDn0ewFynRw9kNe9wFAoavRADnsDckAHo4C7 3oDcIV8OUq292xyiiXrqaaKdm5puS+QgrRpp+9k04vWdxyatrWO3HOScOOmxcXb+Yo6LPc/IayVD wpQdSTbLHL4Rut5jogxknjDhLylq7YX0CJ3Lwj1DUhc/q4TOtTKQrcKqVBB1irzfk4F8Ikq2OZD3 FpH3xzKQz0XJngvkXSHy/kwG8qUo2ZRA3sUi7/0ykDZRstyAW7vEu00GsleULFjVtlTk/YUMZJco 2auBvCtF3jtlII2iZK2BvGX9lQYZyHpRsj4mpXR+hCsi73UykFeE5+/2lM5NQufF0hmGuLDMuTCp 7yJh+TVOofT+K23q/En5uJ7lwr+V4ncXL/YBVjJhlN8EVmlUydrlIO9oNjXrEt7Z+dRxylWLYYZw lSSWDC7QQQcXtNsSMabr1FG6vKminNCrazV6A7JFD6SI215g3A54q06ifV6A7NWvxs/XXvAmotxE h6TdOcZBMx2rpx11dIfjLrNNdRGbnYLsMNfVLeAPZxiXeMxkp73S0ZKPBXxxet/bbca48hxMP3TZ GaOdTl+oGFfsTWovCnEjHuRlmzN0y8U9k3R7IUttTzW+IZiBT/91viaMOdO3LKPEpGWf9LWSfy3+ qeoJUdXcsjQ+s4SQtcDCBHAfL+BATwobaONXXabhSNnsNHQHi7NHd/5HVzUGBqH6qcIDPaX59cJx fz4ay6JBeHkZpMHkOKwJzRMs/VPMxUNl8z730jj4msjGWy3kciCMyyl6KB7oGf4K8NKYQwS0OMVV 38I73JZ2JwXZRWSUn6S9dtVsece2xm9tryVSyqJ7TIwffTv+UmvtmCBvEjnlcnUUxjUeJoL6aBTI B0RSs0a8VeKUElE92Fc/SWS1+QGQd6MLUpRQa7ll4vMilwdj/P/1sY6I6yVaaOFFMsoomvoPZhUR wjJvMp0AAAAASUVORK5CYII= "
-         id="image4353"
+         y="-282.81549"
          x="366.32599"
-         y="-282.81549" />
-      <text
-         id="text4358"
-         y="-270.42322"
-         x="389.25308"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.07265759px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4753015;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.4753015"
-           y="-270.42322"
-           x="389.25308"
-           id="tspan4356"
-           sodipodi:role="line">Kansas City, MO</tspan></text>
-    </g>
-    <g
-       transform="translate(-6.0476089,16.51867)"
-       id="g5432">
-      <image
-         width="18.075962"
-         height="18.075962"
+         id="image4353"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAQAAADa613fAAAAAmJLR0QA/4ePzL8AAAQ+SURBVHja 7ZtfaNVlGMc/trk1a22hm2kuZ2hMcWStP3olxW6S/dGQCWKyRMwIMSWdkxEUZcrcyILwQjC62EXq 8Gqh1I2G5qai2KiY1cSWqaOQqdPcOW8XNjjuzzm/87zv+3vfH5zvc/99zgfO++95nh9klFFGGWV0 X5OYSwWV1FJLJRWUkReln19IDa0cpZc4akTE6eUILVRT4DNCCY10MTTq548VQ3SyjRm+IWSxgu+I BUJIjBjfUsdDfkBMZDU/p42QGL+ykVzXGFX8pgUxHBd5zR3ETA4bgRiOdkpcYCzjH6MYCsUNVoQL kcse4xDD8VV4p83jfG8NQ6H4gclhYEzjvFUMhaLb/mop5ZJ1DIWil5k2MabwUygYCkUPU21h5HM6 NAyFopNH7YAcDBVDofjaBsaG0DEUivWmMZ7njhOQQZ41e7s96wRDoThNljmQjc4wFIq3TWE8wQ2n IH9TbAbkU6cYCkWzCYzJDDgHuUmRPsgO5xgKxYe6GDn0ewFynRw9kNe9wFAoavRADnsDckAHo4C7 3oDcIV8OUq292xyiiXrqaaKdm5puS+QgrRpp+9k04vWdxyatrWO3HOScOOmxcXb+Yo6LPc/IayVD wpQdSTbLHL4Rut5jogxknjDhLylq7YX0CJ3Lwj1DUhc/q4TOtTKQrcKqVBB1irzfk4F8Ikq2OZD3 FpH3xzKQz0XJngvkXSHy/kwG8qUo2ZRA3sUi7/0ykDZRstyAW7vEu00GsleULFjVtlTk/YUMZJco 2auBvCtF3jtlII2iZK2BvGX9lQYZyHpRsj4mpXR+hCsi73UykFeE5+/2lM5NQufF0hmGuLDMuTCp 7yJh+TVOofT+K23q/En5uJ7lwr+V4ncXL/YBVjJhlN8EVmlUydrlIO9oNjXrEt7Z+dRxylWLYYZw lSSWDC7QQQcXtNsSMabr1FG6vKminNCrazV6A7JFD6SI215g3A54q06ifV6A7NWvxs/XXvAmotxE h6TdOcZBMx2rpx11dIfjLrNNdRGbnYLsMNfVLeAPZxiXeMxkp73S0ZKPBXxxet/bbca48hxMP3TZ GaOdTl+oGFfsTWovCnEjHuRlmzN0y8U9k3R7IUttTzW+IZiBT/91viaMOdO3LKPEpGWf9LWSfy3+ qeoJUdXcsjQ+s4SQtcDCBHAfL+BATwobaONXXabhSNnsNHQHi7NHd/5HVzUGBqH6qcIDPaX59cJx fz4ay6JBeHkZpMHkOKwJzRMs/VPMxUNl8z730jj4msjGWy3kciCMyyl6KB7oGf4K8NKYQwS0OMVV 38I73JZ2JwXZRWSUn6S9dtVsece2xm9tryVSyqJ7TIwffTv+UmvtmCBvEjnlcnUUxjUeJoL6aBTI B0RSs0a8VeKUElE92Fc/SWS1+QGQd6MLUpRQa7ll4vMilwdj/P/1sY6I6yVaaOFFMsoomvoPZhUR wjJvMp0AAAAASUVORK5CYII= "
          preserveAspectRatio="none"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAQAAADa613fAAAAAmJLR0QA/4ePzL8AAAKISURBVHja 7Zm/axRBHEefigQRhIAJFhYKsbGxshELxV9YaGVpp6CQdAr+CzZK4LDUSpugjXZWkkKLpNFCAkK0 EFQMCiYhiknGQhDZ++7uzO7M7AY+b7tk72be3u7MSw6EEEIIIYQQQgixNTjAO1zPj/cc8lHZx+te a7xlv++nMsrL3mrMszfkBtvN815qvGBP9cSPD/1khMe903jGrrqZz3CP7YVTdnC/VxqP2FmY4Tbu MlMUsU+80xuNsgttiNgf3a1eaNwuvfVNEfthmmSjU4lNblQsRiUi9vJ2md+daaxzpXJ7KBWxN5wL rHWi8YtLNRt2hYjjg5EAJ/iRXWOFs0PzOFhIqEoRx2eODL3FUb5m1fjOsaE5HOZj4awaEd+3SXd8 8ryUtSKOFc511sZW3540b24PEZ9HLV/fXixZbrxE6he/FMdc0AbgKeLY5GbWNra25KmKLdlbpDoQ cvRtdSQFibhMbfzQ7FsXUyRHGze7WMEiqdvYun2feLyugUi6Nq7u2wQijnnGordxuyW+oUj8NrY3 3Tfer28sEreNffo2mUi8Nv4WIUxbicRpY7tvlwJn0lKkfRv7921ikXZtHNK3yUUc61xttHDORfwH RxSRZm0c2rdZRMLb+Gnk0IkoEpJ7Tfo2o4hvG1vCD1qOHFnEbuMplv/9fpnJhn2bWcR+iMe4zoAB 14x1Ks4fzAlE7DYuY5RXUcZMIuL/RWVI33Yi4lhkolZjgsVo4yUTcSxxvlLjFF8ijpZQxLHBNOOm xDjTkb82SiricKwy4DQj/y21ZxiwGn2c5CJ/jzUWmGWWBX4mGiGTSPpDIhKRiEQkIhGJSEQiEpHI VhcRQgghhBBCCCFEv/gDzDqqC12FRMwAAAAASUVORK5CYII= "
-         id="image4368"
-         x="219.43552"
-         y="-230.96103" />
-      <text
-         id="text4358-1"
-         y="-218.5571"
-         x="243.10526"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.07265759px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4753015;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.4753015"
-           y="-218.5571"
-           x="243.10526"
-           id="tspan4356-0"
-           sodipodi:role="line">votommy@outlook.com</tspan></text>
-    </g>
-    <g
-       id="g5021"
-       transform="translate(104.06369,50.49421)">
-      <image
-         width="18.076"
-         height="18.076"
-         preserveAspectRatio="none"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAQAAADa613fAAAAAmJLR0QA/4ePzL8AAANaSURBVHja 7dpLSNRRFMfxr6n0sqSGpFpUVmAFlWBIu4widz2JapFBi4TUjKAHkSIU0qoHPQVFCoKoTZDVIqik FophpbipiKzECrUXGDnqbdEDpZm59/9nZv7n0v2drZsP48y959wDLi4uLi4uLv9vsjlOG994wTEm 2IqYSh1h1N9qYryNjNV0j0D8qpP2MYoY+IehCLPYLkYxwxEYCsVdmxibGYrCUCg22sLI4WsMhqLT jl+vdNpiMhSKChsg+7UMRT+zpTMm8dkAorgqHbLPiKFQFMiGPDWGPCNVLmNm1NMjUpXIhWzzwFD0 EpIKqfAEUZyTCqn1CBlkqUzIJY8QxSNSJELqPUMUWyVCTvmAvGGiPEipD4jigDxIoS/IE3mQUMw+ JFp1S/yWtPiAPJQIqfYB2SERkueZ0cIYmYdiqyfGEMulXlN2e4LUyr0BZxr2iApFH1mSm6sqY0ip 7C4xkz4jRjtp0jv3SiPIKvkjoQzeaBnP7Zg2btJCGrAkDdqD0JLMoz8mJMwCWyjlms/kAel2QFK4 paGcseUzyeK9hlJsC2WdBjLAClsouoHEB2bZAUnjnobSwRQ7KCFeaSiNjLODsozvGso1yY8MI1Ok vbLUyxye+ulSztry+3VeS7kgdRAxOqnc0FKuyG+2fvUpj7WU64y1gTKdl1pKox3nyhw6tZQOzUJB Kjtpood2DgX5KDGfLi2lh5UxTqXmEX/ZRVFwP9w52luxIkxZxFvC6QgT/2byg6IsoddgzlIzqvVK ozzq8G+Iy0EN+/L5YkBpZOHvJq1Qu3XUS0kwF518o0HeIK3c4bXxYkhBEJRcPvp6rItdN5mTfMoC 3iWA0k9V8hdzs7Xdir96S1Hyj8iXCaEo7rIo2ReXxwmihDmZ3H+yDG4niKJoTu5Waxp1CaNUJ/vb ctDTBp55BfCEsV07pvBTn4M4JPMMrvleqy2YW9g07scZciy46eSpODIGgh3Kro3bPexi0E1xFjfj wOiSMAFIYY/mAU9XP+Ssrs/VPqtGr2FpK1QbDN7tI7Vku+QNkSZyxHAx5E99Zb3UiVgmlXwyXvjM kT3em0yxdm+yj712TJAhl6M0R5hvDdNKGRlYlhBr2M0JaqjhAofZwgxcXFxcXFxcXFxc4pmf861Y rvslHCkAAAAASUVORK5CYII= "
-         id="image4397"
-         x="109.32418"
-         y="-189.20825" />
-      <text
-         id="text4358-1-1"
-         y="-176.89861"
-         x="131.73244"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.07265854px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47530153;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.47530153"
-           y="-176.89861"
-           x="131.73244"
-           id="tspan4356-0-8"
-           sodipodi:role="line">(816) 838-4117</tspan></text>
-    </g>
-    <g
-       id="g5026"
-       transform="translate(104.06369,-1.8565982)">
-      <image
-         width="18.076"
-         height="18.076"
-         preserveAspectRatio="none"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAQAAADa613fAAAAAmJLR0QA/4ePzL8AAAItSURBVHja 7dvNK0RRGAbwx8JKjQUlSllQBikrKeUvwIIFUhY2ykaRr0LKf0BRPkaDWUxZDaXslbLwlQ0KyUbJ gmLhcEZDmDNm3Cv3PeN5TtMszts5/Zo5c+/c0wEYhmEYhmEY5hdShiEEEPaoBfTsfveIbISg8Oxx U1iBzx3jwHPEW9t3QwmJYUTbkvO1oURBlNO1MiyKEW2DziABcZB5Z5CwOEiYEEII8QLyhF1sYk+/ WwxRmER+rK4A03906fx1iELHl9pOOyEzhuoF+yAKRYbqEvsgJwnqz2yDbCeo37ENcpGg/sq+xV5h qK6y8VdrNa42AxE7L4hjXxgT9t6irKNaA6KIGmzYftN4i2P94t0vIaIgj7jRTXkLuTQ8oz1M0n8f 67vDIhqQF5sjE8VoRfC91/PrCDCSpP/itWf2nfA5OZhK4dMRAnlA87fzNemvmwWQMzQmnbHDBkhv SnOuyYeklup0gQBb6QIZswVSiTZ0oR65CfprbYCUf/g7fIc+Y02WfEihviX5PE67se5aOmQ5bpzT Hz7EEAHJ0lf2+JHKDZWbsiF1xpFaDJUR2ZBW40g9P5pXBKQ75X3akGyIebN73D7IqHGkCUIIIYQQ QgghhBBCCCFE7v7IoXGkI0PlObfeCCGEkP8NWRAHmXMGSZtjF35hB2GeUOp0G2xFFCTofD/Pp49o SWHsuTv35tPbM0rAlyrojvG2VgY8PVDZ73xtMAzDMAzDMMyHvAAlZXML9zYqrAAAAABJRU5ErkJg gg== "
-         id="image4426"
-         x="109.32418"
-         y="-162.10025" />
-      <text
-         id="text4358-1-0"
-         y="-149.70808"
-         x="132.51054"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.07265854px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47530153;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.47530153"
-           y="-149.70808"
-           x="132.51054"
-           id="tspan4356-0-7"
-           sodipodi:role="line">linkedin.com/in/votommy</tspan></text>
-    </g>
-    <g
-       transform="translate(-6.0476089,13.12835)"
-       id="g5427">
-      <image
-         width="18.076"
-         height="18.076"
-         preserveAspectRatio="none"
-         xlink:href="data:image/png;base64,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 N2vfB6RKFwyVAAAAAElFTkSuQmCC "
-         id="image5154"
-         x="219.43549"
-         y="-202.32797" />
-      <text
-         id="text4358-1-0-6"
-         y="-190.01831"
-         x="243.10521"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.07265854px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47530153;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.47530153"
-           y="-190.01831"
-           x="243.10521"
-           id="tspan4356-0-7-1"
-           sodipodi:role="line">votommy.com</tspan></text>
-    </g>
-    <path
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.60000002;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="M 213.6878,-250.5859 H 412.64484"
-       id="path4476"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.16550255px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.8726576;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       x="213.09558"
-       y="-89.424721"
-       id="text4343-8"><tspan
-         sodipodi:role="line"
-         id="tspan4341-3"
-         x="213.09558"
-         y="-89.424721"
-         style="fill:#000000;stroke-width:0.8726576">Skills</tspan></text>
-    <path
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.60000002;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="M 213.6878,-77.519079 H 412.64485"
-       id="path4476-6"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <g
-       transform="translate(-5.7165695,-27.725368)"
-       id="g5161">
-      <g
-         id="g5232"
-         transform="translate(0,1.4071166e-5)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15277386px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47845569;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           x="219.43414"
-           y="-26.064238"
-           id="text4358-6-5-0-3"><tspan
-             sodipodi:role="line"
-             id="tspan4356-8-3-1-4"
-             x="219.43414"
-             y="-26.064238"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.47845569">Web Development</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15258408px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47844821;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           x="219.43541"
-           y="-10.764079"
-           id="text4358-6-5-1-67-5-5"><tspan
-             sodipodi:role="line"
-             x="219.43541"
-             y="-10.764079"
-             style="stroke-width:0.47844821"
-             id="tspan5029">    HTML, Javascript, jQuery, CSS,</tspan><tspan
-             sodipodi:role="line"
-             x="219.43541"
-             y="4.426651"
-             style="stroke-width:0.47844821"
-             id="tspan4693">    ASP.NET, AngularJS, Bootstrap</tspan><tspan
-             sodipodi:role="line"
-             x="219.43541"
-             y="19.617382"
-             style="stroke-width:0.47844821"
-             id="tspan5472-2-8" /></text>
-      </g>
-    </g>
-    <g
-       id="g5153"
-       transform="translate(-6.0476089,-34.903573)">
-      <text
-         id="text4358-6-5-0-3-9"
-         y="35.472214"
-         x="219.76518"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15277386px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47845569;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.47845569"
-           y="35.472214"
-           x="219.76518"
-           id="tspan4356-8-3-1-4-1"
-           sodipodi:role="line">Programming</tspan></text>
-      <text
-         id="text4358-6-5-1-67-5-5-4"
-         y="50.772373"
-         x="219.76645"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15258408px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47844821;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.47844821"
-           y="50.772373"
-           x="219.76645"
-           id="tspan4356-8-3-4-0-3-2-0"
-           sodipodi:role="line">    C# Java</tspan><tspan
-           id="tspan5029-3"
-           style="stroke-width:0.47844821"
-           y="65.963104"
-           x="219.76645"
-           sodipodi:role="line" /><tspan
-           id="tspan5472-2-8-3"
-           style="stroke-width:0.47844821"
-           y="81.153831"
-           x="219.76645"
-           sodipodi:role="line" /></text>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15277386px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47845569;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       x="213.38654"
-       y="38.062778"
-       id="text4358-6-5-0-3-7"><tspan
-         sodipodi:role="line"
-         id="tspan4356-8-3-1-4-0"
-         x="213.38654"
-         y="38.062778"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.47845569">Databases</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15258408px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47844821;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       x="213.71884"
-       y="53.362942"
-       id="text4358-6-5-1-67-5-5-5"><tspan
-         sodipodi:role="line"
-         id="tspan4356-8-3-4-0-3-2-4"
-         x="213.71884"
-         y="53.362942"
-         style="stroke-width:0.47844821">    SQL, SQLite</tspan><tspan
-         sodipodi:role="line"
-         x="213.71884"
-         y="68.553673"
-         style="stroke-width:0.47844821"
-         id="tspan1361" /><tspan
-         sodipodi:role="line"
-         x="213.71884"
-         y="83.7444"
-         style="stroke-width:0.47844821"
-         id="tspan5029-5" /><tspan
-         sodipodi:role="line"
-         x="213.71884"
-         y="98.935135"
-         style="stroke-width:0.47844821"
-         id="tspan5472-2-8-7" /></text>
-    <g
-       id="g5137"
-       transform="translate(-6.6765998,-48.390047)">
-      <text
-         id="text4358-6-5-0-3-1"
-         y="123.947"
-         x="220.10468"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15277386px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47845569;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.47845569"
-           y="123.947"
-           x="220.10468"
-           id="tspan4356-8-3-1-4-8"
-           sodipodi:role="line">Tools</tspan></text>
-      <text
-         id="text4358-6-5-1-67-5-5-2"
-         y="139.24716"
-         x="220.43698"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15258408px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47844821;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.47844821"
-           y="139.24716"
-           x="220.43698"
-           id="tspan4356-8-3-4-0-3-2-6"
-           sodipodi:role="line">    Github/GitLab, Android SDK,</tspan><tspan
-           id="tspan4663"
-           style="stroke-width:0.47844821"
-           y="154.4379"
-           x="220.43698"
-           sodipodi:role="line">    MySQL Workbench, MongoDB,</tspan><tspan
-           id="tspan4707"
-           style="stroke-width:0.47844821"
-           y="169.62862"
-           x="220.43698"
-           sodipodi:role="line">    XAMPP/WampServer</tspan><tspan
-           id="tspan5029-30"
-           style="stroke-width:0.47844821"
-           y="184.81935"
-           x="220.43698"
-           sodipodi:role="line" /><tspan
-           id="tspan5472-2-8-6"
-           style="stroke-width:0.47844821"
-           y="200.01009"
-           x="220.43698"
-           sodipodi:role="line" /></text>
-    </g>
-    <g
-       transform="translate(-6.0476089,-17.839682)"
-       id="g5129">
-      <text
-         id="text4358-6-5-0-3-4"
-         y="162.50056"
-         x="219.43414"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15277386px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47845569;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.47845569"
-           y="162.50056"
-           x="219.43414"
-           id="tspan4356-8-3-1-4-4"
-           sodipodi:role="line">Data Management</tspan></text>
-      <text
-         id="text4358-6-5-1-67-5-5-58"
-         y="177.80072"
-         x="219.76645"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15258408px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47844821;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.47844821"
-           y="177.80072"
-           x="219.76645"
-           id="tspan4356-8-3-4-0-3-2-06"
-           sodipodi:role="line">    Excel, Tableau, PowerBI</tspan><tspan
-           id="tspan5029-1"
-           style="stroke-width:0.47844821"
-           y="192.99146"
-           x="219.76645"
-           sodipodi:role="line" /><tspan
-           id="tspan5472-2-8-1"
-           style="stroke-width:0.47844821"
-           y="208.18217"
-           x="219.76645"
-           sodipodi:role="line" /></text>
-    </g>
-    <path
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.60699809;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="M -412.03308,-250.59289 H 189.34184"
-       id="path4476-7"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.16550255px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.8726576;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       x="-410.62219"
-       y="-262.49142"
-       id="text4343-3"><tspan
-         sodipodi:role="line"
-         id="tspan4341-8"
-         x="-410.62219"
-         y="-262.49142"
-         style="fill:#000000;stroke-width:0.8726576">Education</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15277386px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47845569;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       x="110.74129"
-       y="-205.5266"
-       id="text4358-6-5-6"><tspan
-         sodipodi:role="line"
-         id="tspan4356-8-3-5"
-         x="110.74129"
-         y="-205.5266"
-         style="stroke-width:0.47845569">GPA: 3.7 / 4.0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15277386px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47845569;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       x="133.69391"
-       y="-226.30252"
-       id="text4358-6-5-6-4"><tspan
-         sodipodi:role="line"
-         id="tspan4356-8-3-5-3"
-         x="133.69391"
-         y="-226.30252"
-         style="stroke-width:0.47845569">May 2020</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.34079838px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.56459838;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       x="-409.95547"
-       y="-225.59209"
-       id="text4358-6"><tspan
-         sodipodi:role="line"
-         id="tspan4356-8"
-         x="-409.95547"
-         y="-225.59209"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.56459838">Bachelor of Science — Computer Science</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15277386px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47845569;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       x="-409.74216"
-       y="-206.12"
-       id="text4358-6-5"><tspan
-         sodipodi:role="line"
-         id="tspan4356-8-3"
-         x="-409.74216"
-         y="-206.12"
-         style="stroke-width:0.47845569">    Northwest Missouri State University</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15277386px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47845569;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       x="-409.33865"
-       y="-190.65895"
-       id="text4358-6-5-1"><tspan
-         sodipodi:role="line"
-         id="tspan4356-8-3-4"
-         x="-409.33865"
-         y="-190.65895"
-         style="stroke-width:0.47845569">    Maryville, MO</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15277386px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47845569;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       x="133.71765"
-       y="-169.05016"
-       id="text4358-6-5-6-4-3"><tspan
-         sodipodi:role="line"
-         id="tspan4356-8-3-5-3-2"
-         x="133.71765"
-         y="-169.05016"
-         style="stroke-width:0.47845569">May 2018</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.34079838px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.56459838;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       x="-409.01718"
-       y="-166.94975"
-       id="text4358-6-9"><tspan
-         sodipodi:role="line"
-         id="tspan4356-8-9"
-         x="-409.01718"
-         y="-166.94975"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.56459838">Associate of Arts</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15277386px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47845569;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       x="-409.33865"
-       y="-147.47766"
-       id="text4358-6-5-9"><tspan
-         sodipodi:role="line"
-         id="tspan4356-8-3-6"
-         x="-409.33865"
-         y="-147.47766"
-         style="stroke-width:0.47845569">    Metropolitan Community College</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15277386px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47845569;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       x="-409.73624"
-       y="-132.01662"
-       id="text4358-6-5-1-6"><tspan
-         sodipodi:role="line"
-         id="tspan4356-8-3-4-6"
-         x="-409.73624"
-         y="-132.01662"
-         style="stroke-width:0.47845569">    Kansas City, MO</tspan></text>
-    <g
-       id="g4937"
-       transform="translate(0,3.5690828e-5)">
-      <path
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.60699809;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         d="M -412.03309,-77.519322 H 189.34185"
-         id="path4476-7-7"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
+         height="18.076199"
+         width="18.076199" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.16550255px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.8726576;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         x="-410.62219"
-         y="-89.424721"
-         id="text4343-3-4"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0727px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.475302;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         x="389.25308"
+         y="-270.42322"
+         id="text4358"><tspan
            sodipodi:role="line"
-           id="tspan4341-8-4"
-           x="-410.62219"
+           id="tspan4356"
+           x="389.25308"
+           y="-270.42322"
+           style="stroke-width:0.475302">Kansas City, MO</tspan></text>
+    </g>
+    <g
+       id="g5432"
+       transform="translate(-6.0476089,16.51867)">
+      <image
+         y="-230.96103"
+         x="219.43552"
+         id="image4368"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAQAAADa613fAAAAAmJLR0QA/4ePzL8AAAKISURBVHja 7Zm/axRBHEefigQRhIAJFhYKsbGxshELxV9YaGVpp6CQdAr+CzZK4LDUSpugjXZWkkKLpNFCAkK0 EFQMCiYhiknGQhDZ++7uzO7M7AY+b7tk72be3u7MSw6EEEIIIYQQQgixNTjAO1zPj/cc8lHZx+te a7xlv++nMsrL3mrMszfkBtvN815qvGBP9cSPD/1khMe903jGrrqZz3CP7YVTdnC/VxqP2FmY4Tbu MlMUsU+80xuNsgttiNgf3a1eaNwuvfVNEfthmmSjU4lNblQsRiUi9vJ2md+daaxzpXJ7KBWxN5wL rHWi8YtLNRt2hYjjg5EAJ/iRXWOFs0PzOFhIqEoRx2eODL3FUb5m1fjOsaE5HOZj4awaEd+3SXd8 8ryUtSKOFc511sZW3540b24PEZ9HLV/fXixZbrxE6he/FMdc0AbgKeLY5GbWNra25KmKLdlbpDoQ cvRtdSQFibhMbfzQ7FsXUyRHGze7WMEiqdvYun2feLyugUi6Nq7u2wQijnnGordxuyW+oUj8NrY3 3Tfer28sEreNffo2mUi8Nv4WIUxbicRpY7tvlwJn0lKkfRv7921ikXZtHNK3yUUc61xttHDORfwH RxSRZm0c2rdZRMLb+Gnk0IkoEpJ7Tfo2o4hvG1vCD1qOHFnEbuMplv/9fpnJhn2bWcR+iMe4zoAB 14x1Ks4fzAlE7DYuY5RXUcZMIuL/RWVI33Yi4lhkolZjgsVo4yUTcSxxvlLjFF8ijpZQxLHBNOOm xDjTkb82SiricKwy4DQj/y21ZxiwGn2c5CJ/jzUWmGWWBX4mGiGTSPpDIhKRiEQkIhGJSEQiEpHI VhcRQgghhBBCCCFEv/gDzDqqC12FRMwAAAAASUVORK5CYII= "
+         preserveAspectRatio="none"
+         height="18.075962"
+         width="18.075962" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0727px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.475302;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         x="243.10526"
+         y="-218.5571"
+         id="text4358-1"><tspan
+           sodipodi:role="line"
+           id="tspan4356-0"
+           x="243.10526"
+           y="-218.5571"
+           style="stroke-width:0.475302">votommy@outlook.com</tspan></text>
+    </g>
+    <g
+       transform="translate(104.06369,50.49421)"
+       id="g5021">
+      <image
+         y="-189.20825"
+         x="109.32418"
+         id="image4397"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAQAAADa613fAAAAAmJLR0QA/4ePzL8AAANaSURBVHja 7dpLSNRRFMfxr6n0sqSGpFpUVmAFlWBIu4widz2JapFBi4TUjKAHkSIU0qoHPQVFCoKoTZDVIqik FophpbipiKzECrUXGDnqbdEDpZm59/9nZv7n0v2drZsP48y959wDLi4uLi4uLv9vsjlOG994wTEm 2IqYSh1h1N9qYryNjNV0j0D8qpP2MYoY+IehCLPYLkYxwxEYCsVdmxibGYrCUCg22sLI4WsMhqLT jl+vdNpiMhSKChsg+7UMRT+zpTMm8dkAorgqHbLPiKFQFMiGPDWGPCNVLmNm1NMjUpXIhWzzwFD0 EpIKqfAEUZyTCqn1CBlkqUzIJY8QxSNSJELqPUMUWyVCTvmAvGGiPEipD4jigDxIoS/IE3mQUMw+ JFp1S/yWtPiAPJQIqfYB2SERkueZ0cIYmYdiqyfGEMulXlN2e4LUyr0BZxr2iApFH1mSm6sqY0ip 7C4xkz4jRjtp0jv3SiPIKvkjoQzeaBnP7Zg2btJCGrAkDdqD0JLMoz8mJMwCWyjlms/kAel2QFK4 paGcseUzyeK9hlJsC2WdBjLAClsouoHEB2bZAUnjnobSwRQ7KCFeaSiNjLODsozvGso1yY8MI1Ok vbLUyxye+ulSztry+3VeS7kgdRAxOqnc0FKuyG+2fvUpj7WU64y1gTKdl1pKox3nyhw6tZQOzUJB Kjtpood2DgX5KDGfLi2lh5UxTqXmEX/ZRVFwP9w52luxIkxZxFvC6QgT/2byg6IsoddgzlIzqvVK ozzq8G+Iy0EN+/L5YkBpZOHvJq1Qu3XUS0kwF518o0HeIK3c4bXxYkhBEJRcPvp6rItdN5mTfMoC 3iWA0k9V8hdzs7Xdir96S1Hyj8iXCaEo7rIo2ReXxwmihDmZ3H+yDG4niKJoTu5Waxp1CaNUJ/vb ctDTBp55BfCEsV07pvBTn4M4JPMMrvleqy2YW9g07scZciy46eSpODIGgh3Kro3bPexi0E1xFjfj wOiSMAFIYY/mAU9XP+Ssrs/VPqtGr2FpK1QbDN7tI7Vku+QNkSZyxHAx5E99Zb3UiVgmlXwyXvjM kT3em0yxdm+yj712TJAhl6M0R5hvDdNKGRlYlhBr2M0JaqjhAofZwgxcXFxcXFxcXFxc4pmf861Y rvslHCkAAAAASUVORK5CYII= "
+         preserveAspectRatio="none"
+         height="18.076"
+         width="18.076" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0727px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.475302;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         x="131.73244"
+         y="-176.89861"
+         id="text4358-1-1"><tspan
+           sodipodi:role="line"
+           id="tspan4356-0-8"
+           x="131.73244"
+           y="-176.89861"
+           style="stroke-width:0.475302">(816) 838-4117</tspan></text>
+    </g>
+    <g
+       transform="translate(104.06369,-1.8565982)"
+       id="g5026">
+      <image
+         y="-162.10025"
+         x="109.32418"
+         id="image4426"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAQAAADa613fAAAAAmJLR0QA/4ePzL8AAAItSURBVHja 7dvNK0RRGAbwx8JKjQUlSllQBikrKeUvwIIFUhY2ykaRr0LKf0BRPkaDWUxZDaXslbLwlQ0KyUbJ gmLhcEZDmDNm3Cv3PeN5TtMszts5/Zo5c+/c0wEYhmEYhmEY5hdShiEEEPaoBfTsfveIbISg8Oxx U1iBzx3jwHPEW9t3QwmJYUTbkvO1oURBlNO1MiyKEW2DziABcZB5Z5CwOEiYEEII8QLyhF1sYk+/ WwxRmER+rK4A03906fx1iELHl9pOOyEzhuoF+yAKRYbqEvsgJwnqz2yDbCeo37ENcpGg/sq+xV5h qK6y8VdrNa42AxE7L4hjXxgT9t6irKNaA6KIGmzYftN4i2P94t0vIaIgj7jRTXkLuTQ8oz1M0n8f 67vDIhqQF5sjE8VoRfC91/PrCDCSpP/itWf2nfA5OZhK4dMRAnlA87fzNemvmwWQMzQmnbHDBkhv SnOuyYeklup0gQBb6QIZswVSiTZ0oR65CfprbYCUf/g7fIc+Y02WfEihviX5PE67se5aOmQ5bpzT Hz7EEAHJ0lf2+JHKDZWbsiF1xpFaDJUR2ZBW40g9P5pXBKQ75X3akGyIebN73D7IqHGkCUIIIYQQ QgghhBBCCCFE7v7IoXGkI0PlObfeCCGEkP8NWRAHmXMGSZtjF35hB2GeUOp0G2xFFCTofD/Pp49o SWHsuTv35tPbM0rAlyrojvG2VgY8PVDZ73xtMAzDMAzDMMyHvAAlZXML9zYqrAAAAABJRU5ErkJg gg== "
+         preserveAspectRatio="none"
+         height="18.076"
+         width="18.076" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0727px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.475302;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         x="132.51054"
+         y="-149.70808"
+         id="text4358-1-0"><tspan
+           sodipodi:role="line"
+           id="tspan4356-0-7"
+           x="132.51054"
+           y="-149.70808"
+           style="stroke-width:0.475302">linkedin.com/in/votommy</tspan></text>
+    </g>
+    <g
+       id="g5427"
+       transform="translate(-6.0476089,13.12835)">
+      <image
+         y="-202.32797"
+         x="219.43549"
+         id="image5154"
+         xlink:href="data:image/png;base64,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 N2vfB6RKFwyVAAAAAElFTkSuQmCC "
+         preserveAspectRatio="none"
+         height="18.076"
+         width="18.076" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0727px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.475302;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         x="243.10521"
+         y="-190.01831"
+         id="text4358-1-0-6"><tspan
+           sodipodi:role="line"
+           id="tspan4356-0-7-1"
+           x="243.10521"
+           y="-190.01831"
+           style="stroke-width:0.475302">votommy.com</tspan></text>
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4476"
+       d="M 213.6878,-250.5859 H 412.64484"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.60000002;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <text
+       id="text4343-8"
+       y="-89.424721"
+       x="213.09558"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.1655px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.872658;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         style="fill:#000000;stroke-width:0.872658"
+         y="-89.424721"
+         x="213.09558"
+         id="tspan4341-3"
+         sodipodi:role="line">Skills</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4476-6"
+       d="M 213.6878,-77.519079 H 412.64485"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.60000002;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <g
+       id="g5161"
+       transform="translate(-5.7165695,-27.725368)">
+      <g
+         transform="translate(0,1.4071166e-5)"
+         id="g5232">
+        <text
+           id="text4358-6-5-0-3"
+           y="-26.064238"
+           x="219.43414"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1528px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478456;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.478456"
+             y="-26.064238"
+             x="219.43414"
+             id="tspan4356-8-3-1-4"
+             sodipodi:role="line">Web Development</tspan></text>
+        <text
+           id="text4358-6-5-1-67-5-5"
+           y="-10.764079"
+           x="219.43541"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1526px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478448;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           xml:space="preserve"><tspan
+             id="tspan5029"
+             style="stroke-width:0.478448"
+             y="-10.764079"
+             x="219.43541"
+             sodipodi:role="line">    HTML, Javascript, jQuery, CSS,</tspan><tspan
+             id="tspan4693"
+             style="stroke-width:0.478448"
+             y="4.426671"
+             x="219.43541"
+             sodipodi:role="line">    ASP.NET, VueJS, Bootstrap</tspan><tspan
+             id="tspan5472-2-8"
+             y="19.617422"
+             x="219.43541"
+             sodipodi:role="line" /></text>
+      </g>
+    </g>
+    <g
+       transform="translate(-6.0476089,-34.903573)"
+       id="g5153">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1528px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478456;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         x="219.76518"
+         y="35.472214"
+         id="text4358-6-5-0-3-9"><tspan
+           sodipodi:role="line"
+           id="tspan4356-8-3-1-4-1"
+           x="219.76518"
+           y="35.472214"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.478456">Programming</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1526px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478448;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         x="219.76645"
+         y="50.772373"
+         id="text4358-6-5-1-67-5-5-4"><tspan
+           sodipodi:role="line"
+           id="tspan4356-8-3-4-0-3-2-0"
+           x="219.76645"
+           y="50.772373"
+           style="stroke-width:0.478448">    C# Java</tspan><tspan
+           sodipodi:role="line"
+           x="219.76645"
+           y="65.963104"
+           id="tspan5029-3" /><tspan
+           sodipodi:role="line"
+           x="219.76645"
+           y="81.153831"
+           id="tspan5472-2-8-3" /></text>
+    </g>
+    <text
+       id="text4358-6-5-0-3-7"
+       y="38.062778"
+       x="213.38654"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1528px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478456;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.478456"
+         y="38.062778"
+         x="213.38654"
+         id="tspan4356-8-3-1-4-0"
+         sodipodi:role="line">Databases</tspan></text>
+    <text
+       id="text4358-6-5-1-67-5-5-5"
+       y="53.362942"
+       x="213.71884"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1526px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478448;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.478448"
+         y="53.362942"
+         x="213.71884"
+         id="tspan4356-8-3-4-0-3-2-4"
+         sodipodi:role="line">    SQL, SQLite</tspan><tspan
+         id="tspan1361"
+         y="68.553673"
+         x="213.71884"
+         sodipodi:role="line" /><tspan
+         id="tspan5029-5"
+         y="83.7444"
+         x="213.71884"
+         sodipodi:role="line" /><tspan
+         id="tspan5472-2-8-7"
+         y="98.935135"
+         x="213.71884"
+         sodipodi:role="line" /></text>
+    <g
+       transform="translate(-6.6765998,-48.390047)"
+       id="g5137">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1528px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478456;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         x="220.10468"
+         y="123.947"
+         id="text4358-6-5-0-3-1"><tspan
+           sodipodi:role="line"
+           id="tspan4356-8-3-1-4-8"
+           x="220.10468"
+           y="123.947"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.478456">Tools</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1526px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478448;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         x="220.43698"
+         y="139.24716"
+         id="text4358-6-5-1-67-5-5-2"><tspan
+           sodipodi:role="line"
+           id="tspan4356-8-3-4-0-3-2-6"
+           x="220.43698"
+           y="139.24716"
+           style="stroke-width:0.478448">    Github/GitLab, Android SDK,</tspan><tspan
+           sodipodi:role="line"
+           x="220.43698"
+           y="154.4379"
+           style="stroke-width:0.478448"
+           id="tspan4663">    MySQL Workbench, MongoDB,</tspan><tspan
+           sodipodi:role="line"
+           x="220.43698"
+           y="169.62862"
+           style="stroke-width:0.478448"
+           id="tspan4707">    XAMPP/WampServer</tspan><tspan
+           sodipodi:role="line"
+           x="220.43698"
+           y="184.81935"
+           id="tspan5029-30" /><tspan
+           sodipodi:role="line"
+           x="220.43698"
+           y="200.01009"
+           id="tspan5472-2-8-6" /></text>
+    </g>
+    <g
+       id="g5129"
+       transform="translate(-6.0476089,-17.839682)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1528px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478456;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         x="219.43414"
+         y="162.50056"
+         id="text4358-6-5-0-3-4"><tspan
+           sodipodi:role="line"
+           id="tspan4356-8-3-1-4-4"
+           x="219.43414"
+           y="162.50056"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.478456">Data Management</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1526px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478448;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         x="219.76645"
+         y="177.80072"
+         id="text4358-6-5-1-67-5-5-58"><tspan
+           sodipodi:role="line"
+           id="tspan4356-8-3-4-0-3-2-06"
+           x="219.76645"
+           y="177.80072"
+           style="stroke-width:0.478448">    Excel, Tableau, PowerBI</tspan><tspan
+           sodipodi:role="line"
+           x="219.76645"
+           y="192.99146"
+           id="tspan5029-1" /><tspan
+           sodipodi:role="line"
+           x="219.76645"
+           y="208.18217"
+           id="tspan5472-2-8-1" /></text>
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4476-7"
+       d="M -412.03308,-250.59289 H 189.34184"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.60699809;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <text
+       id="text4343-3"
+       y="-262.49142"
+       x="-410.62219"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.1655px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.872658;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         style="fill:#000000;stroke-width:0.872658"
+         y="-262.49142"
+         x="-410.62219"
+         id="tspan4341-8"
+         sodipodi:role="line">Education</tspan></text>
+    <text
+       id="text4358-6-5-6"
+       y="-205.5266"
+       x="110.74129"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1528px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478456;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.478456"
+         y="-205.5266"
+         x="110.74129"
+         id="tspan4356-8-3-5"
+         sodipodi:role="line">GPA: 3.7 / 4.0</tspan></text>
+    <text
+       id="text4358-6-5-6-4"
+       y="-226.30252"
+       x="133.69391"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1528px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478456;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.478456"
+         y="-226.30252"
+         x="133.69391"
+         id="tspan4356-8-3-5-3"
+         sodipodi:role="line">May 2020</tspan></text>
+    <text
+       id="text4358-6"
+       y="-225.59209"
+       x="-409.95547"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.3408px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.564598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.564598"
+         y="-225.59209"
+         x="-409.95547"
+         id="tspan4356-8"
+         sodipodi:role="line">Bachelor of Science — Computer Science</tspan></text>
+    <text
+       id="text4358-6-5"
+       y="-206.12"
+       x="-409.74216"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1528px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478456;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.478456"
+         y="-206.12"
+         x="-409.74216"
+         id="tspan4356-8-3"
+         sodipodi:role="line">    Northwest Missouri State University</tspan></text>
+    <text
+       id="text4358-6-5-1"
+       y="-190.65895"
+       x="-409.33865"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1528px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478456;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.478456"
+         y="-190.65895"
+         x="-409.33865"
+         id="tspan4356-8-3-4"
+         sodipodi:role="line">    Maryville, MO</tspan></text>
+    <text
+       id="text4358-6-5-6-4-3"
+       y="-169.05016"
+       x="133.71765"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1528px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478456;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.478456"
+         y="-169.05016"
+         x="133.71765"
+         id="tspan4356-8-3-5-3-2"
+         sodipodi:role="line">May 2018</tspan></text>
+    <text
+       id="text4358-6-9"
+       y="-166.94975"
+       x="-409.01718"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.3408px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.564598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.564598"
+         y="-166.94975"
+         x="-409.01718"
+         id="tspan4356-8-9"
+         sodipodi:role="line">Associate of Arts</tspan></text>
+    <text
+       id="text4358-6-5-9"
+       y="-147.47766"
+       x="-409.33865"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1528px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478456;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.478456"
+         y="-147.47766"
+         x="-409.33865"
+         id="tspan4356-8-3-6"
+         sodipodi:role="line">    Metropolitan Community College</tspan></text>
+    <text
+       id="text4358-6-5-1-6"
+       y="-132.01662"
+       x="-409.73624"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1528px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478456;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.478456"
+         y="-132.01662"
+         x="-409.73624"
+         id="tspan4356-8-3-4-6"
+         sodipodi:role="line">    Kansas City, MO</tspan></text>
+    <g
+       transform="translate(0,3.5690828e-5)"
+       id="g4937">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4476-7-7"
+         d="M -412.03309,-77.519322 H 189.34185"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.60699809;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+      <text
+         id="text4343-3-4"
+         y="-89.424721"
+         x="-410.62219"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.1655px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.872658;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         xml:space="preserve"><tspan
+           style="fill:#000000;stroke-width:0.872658"
            y="-89.424721"
-           style="fill:#000000;stroke-width:0.8726576">Work Experience</tspan></text>
+           x="-410.62219"
+           id="tspan4341-8-4"
+           sodipodi:role="line">Work Experience</tspan></text>
       <g
          id="g4831">
         <text
-           id="text4358-6-95"
-           y="-52.348358"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.3408px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.564598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
            x="-412.24274"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.34079838px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.56459838;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.56459838"
-             y="-52.348358"
-             x="-412.24274"
-             id="tspan4356-8-1"
-             sodipodi:role="line">Software Developer<tspan
-   id="tspan5474"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic'" /></tspan></text>
-        <text
-           id="text4358-6-5-6-4-1"
-           y="-54.155529"
-           x="51.781399"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15277386px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47845569;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           xml:space="preserve"><tspan
-             style="stroke-width:0.47845569"
-             y="-54.155529"
-             x="51.781399"
-             id="tspan4356-8-3-5-3-5"
-             sodipodi:role="line">August 2019 - May 2020</tspan></text>
-        <text
-           id="text4358-6-5-0"
-           y="-32.876286"
-           x="-413.02374"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15277386px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47845569;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.47845569"
-             y="-32.876286"
-             x="-413.02374"
-             id="tspan4356-8-3-1"
-             sodipodi:role="line">Northwest Missouri State University</tspan></text>
-        <text
-           id="text4358-6-5-1-67-5"
-           y="-17.576088"
-           x="-413.02249"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15258408px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47844821;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           xml:space="preserve"><tspan
-             id="tspan5472-2"
-             style="stroke-width:0.47844821"
-             y="-17.576088"
-             x="-413.02249"
-             sodipodi:role="line">Career Pathing ATS</tspan><tspan
-             style="stroke-width:0.47844821"
-             y="-2.3853579"
-             x="-413.02249"
+           y="-52.348358"
+           id="text4358-6-95"><tspan
              sodipodi:role="line"
-             id="tspan5041">    Application used by NW students &amp; staff to set presentation events and track their attendances.</tspan><tspan
-             id="tspan5126"
-             style="stroke-width:0.47844821"
-             y="12.805372"
+             id="tspan4356-8-1"
+             x="-412.24274"
+             y="-52.348358"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.564598">Software Developer<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic'"
+   id="tspan5474" /></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1528px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478456;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           x="51.781399"
+           y="-54.155529"
+           id="text4358-6-5-6-4-1"><tspan
+             sodipodi:role="line"
+             id="tspan4356-8-3-5-3-5"
+             x="51.781399"
+             y="-54.155529"
+             style="stroke-width:0.478456">August 2019 - May 2020</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1528px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478456;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           x="-413.02374"
+           y="-32.876286"
+           id="text4358-6-5-0"><tspan
+             sodipodi:role="line"
+             id="tspan4356-8-3-1"
+             x="-413.02374"
+             y="-32.876286"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.478456">Northwest Missouri State University</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1526px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478448;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           x="-413.02249"
+           y="-17.576088"
+           id="text4358-6-5-1-67-5"><tspan
+             sodipodi:role="line"
              x="-413.02249"
-             sodipodi:role="line">    Developed from scratch the web application and user interface.</tspan><tspan
-             id="tspan5130"
-             style="stroke-width:0.47844821"
-             y="27.996101"
+             y="-17.576088"
+             style="stroke-width:0.478448"
+             id="tspan5472-2">Career Pathing ATS</tspan><tspan
+             id="tspan5041"
+             sodipodi:role="line"
              x="-413.02249"
-             sodipodi:role="line">    •    ASP.NET / C#</tspan><tspan
-             id="tspan5132"
-             style="stroke-width:0.47844821"
-             y="43.186832"
+             y="-2.3853376"
+             style="stroke-width:0.478448">    Application used by NW students &amp; staff to set presentation events and track their attendances.</tspan><tspan
+             sodipodi:role="line"
              x="-413.02249"
-             sodipodi:role="line">    •    HTML / CSS / Bootstrap</tspan><tspan
-             id="tspan5134"
-             style="stroke-width:0.47844821"
-             y="58.377563"
+             y="12.805412"
+             style="stroke-width:0.478448"
+             id="tspan5126">    Developed from scratch the web application and user interface.</tspan><tspan
+             sodipodi:role="line"
              x="-413.02249"
-             sodipodi:role="line">    •    Javascript / jQuery</tspan><tspan
-             id="tspan5140"
-             style="stroke-width:0.47844821"
-             y="73.568291"
+             y="27.996162"
+             style="stroke-width:0.478448"
+             id="tspan5130">    •    ASP.NET / C#</tspan><tspan
+             sodipodi:role="line"
              x="-413.02249"
-             sodipodi:role="line">    •    SQLite</tspan></text>
+             y="43.186913"
+             style="stroke-width:0.478448"
+             id="tspan5132">    •    HTML / CSS / Bootstrap</tspan><tspan
+             sodipodi:role="line"
+             x="-413.02249"
+             y="58.377663"
+             style="stroke-width:0.478448"
+             id="tspan5134">    •    Javascript / jQuery / VueJS</tspan><tspan
+             sodipodi:role="line"
+             x="-413.02249"
+             y="73.568413"
+             style="stroke-width:0.478448"
+             id="tspan5140">    •    SQLite</tspan></text>
       </g>
       <g
          id="g4799">
         <text
-           id="text4358-6-95-8"
-           y="99.237999"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.3408px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.564598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
            x="-413.11377"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.34079838px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.56459838;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.56459838"
-             y="99.237999"
-             x="-413.11377"
+           y="99.237999"
+           id="text4358-6-95-8"><tspan
+             sodipodi:role="line"
              id="tspan4356-8-1-0"
-             sodipodi:role="line">Software Developer Intern<tspan
-   id="tspan5474-9"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';stroke-width:0.56459838" /></tspan></text>
+             x="-413.11377"
+             y="99.237999"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.564598">Software Developer Intern<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';stroke-width:0.564598"
+   id="tspan5474-9" /></tspan></text>
         <text
-           id="text4358-6-5-6-4-1-2"
-           y="97.430832"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1528px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478456;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
            x="52.155239"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15277386px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47845569;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           xml:space="preserve"><tspan
-             style="stroke-width:0.47845569"
-             y="97.430832"
-             x="52.155239"
+           y="97.430832"
+           id="text4358-6-5-6-4-1-2"><tspan
+             sodipodi:role="line"
              id="tspan4356-8-3-5-3-5-0"
-             sodipodi:role="line">May 2019 - August 2019</tspan></text>
+             x="52.155239"
+             y="97.430832"
+             style="stroke-width:0.478456">May 2019 - August 2019</tspan></text>
         <text
-           id="text4358-6-5-0-0"
-           y="118.71021"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1528px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478456;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
            x="-413.82953"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15277386px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47845569;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.47845569"
-             y="118.71021"
-             x="-413.82953"
+           y="118.71021"
+           id="text4358-6-5-0-0"><tspan
+             sodipodi:role="line"
              id="tspan4356-8-3-1-6"
-             sodipodi:role="line">Northwest Missouri State University</tspan></text>
+             x="-413.82953"
+             y="118.71021"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.478456">Northwest Missouri State University</tspan></text>
         <text
-           id="text4358-6-5-1-67-5-0"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1526px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478448;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           x="-413.02249"
            y="134.01038"
-           x="-413.02249"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15258408px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47844821;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           xml:space="preserve"><tspan
-             id="tspan4751"
-             style="stroke-width:0.47844821"
+           id="text4358-6-5-1-67-5-0"><tspan
+             sodipodi:role="line"
+             x="-413.02249"
              y="134.01038"
+             style="stroke-width:0.478448"
+             id="tspan4751">Workshop Manager</tspan><tspan
+             sodipodi:role="line"
              x="-413.02249"
-             sodipodi:role="line">Workshop Manager</tspan><tspan
-             id="tspan4683"
-             style="stroke-width:0.47844821"
              y="149.20111"
+             style="stroke-width:0.478448"
+             id="tspan4683">    Application used by NW staff &amp; faculty to set appointments and manage campus events.</tspan><tspan
+             sodipodi:role="line"
              x="-413.02249"
-             sodipodi:role="line">    Application used by NW staff &amp; faculty to set appointments and manage campus events.</tspan><tspan
-             id="tspan4771"
-             style="stroke-width:0.47844821"
              y="164.39183"
+             style="stroke-width:0.478448"
+             id="tspan4771">    Revamped the entire UI to improve efficiency in user experience.</tspan><tspan
+             sodipodi:role="line"
              x="-413.02249"
-             sodipodi:role="line">    Revamped the entire UI to improve efficiency in user experience.</tspan><tspan
-             id="tspan4755"
-             style="stroke-width:0.47844821"
              y="179.58257"
+             style="stroke-width:0.478448"
+             id="tspan4755">    •    ASP.NET / C#</tspan><tspan
+             sodipodi:role="line"
              x="-413.02249"
-             sodipodi:role="line">    •    ASP.NET / C#</tspan><tspan
-             id="tspan4759"
-             style="stroke-width:0.47844821"
              y="194.7733"
+             style="stroke-width:0.478448"
+             id="tspan4759">    •    HTML / CSS</tspan><tspan
+             sodipodi:role="line"
              x="-413.02249"
-             sodipodi:role="line">    •    HTML / CSS</tspan><tspan
-             id="tspan4805"
-             style="stroke-width:0.47844821"
              y="209.96402"
-             x="-413.02249"
-             sodipodi:role="line">    •    Javascript / jQuery</tspan></text>
+             style="stroke-width:0.478448"
+             id="tspan4805">    •    Javascript / jQuery</tspan></text>
         <text
-           id="text4358-6-5-1-67-5-0-0"
-           y="234.11256"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1526px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478448;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
            x="-413.02249"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15258408px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47844821;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           xml:space="preserve"><tspan
-             id="tspan4797-3"
-             style="stroke-width:0.47844821"
+           y="234.11256"
+           id="text4358-6-5-1-67-5-0-0"><tspan
+             sodipodi:role="line"
+             x="-413.02249"
              y="234.11256"
+             style="stroke-width:0.478448"
+             id="tspan4797-3">Web Time Clock</tspan><tspan
+             sodipodi:role="line"
              x="-413.02249"
-             sodipodi:role="line">Web Time Clock</tspan><tspan
-             id="tspan4799-4"
-             style="stroke-width:0.47844821"
              y="249.3033"
+             style="stroke-width:0.478448"
+             id="tspan4799-4">    Tool used by NW staff &amp; faculty to clock in/out of work via card-swipe or ID number.</tspan><tspan
+             sodipodi:role="line"
              x="-413.02249"
-             sodipodi:role="line">    Tool used by NW staff &amp; faculty to clock in/out of work via card-swipe or ID number.</tspan><tspan
-             id="tspan4801-5"
-             style="stroke-width:0.47844821"
              y="264.49402"
+             style="stroke-width:0.478448"
+             id="tspan4801-5">    Updated/debugged the application that allows users to track all their attendances.</tspan><tspan
+             sodipodi:role="line"
              x="-413.02249"
-             sodipodi:role="line">    Updated/debugged the application that allows users to track all their attendances.</tspan><tspan
-             id="tspan4803-0"
-             style="stroke-width:0.47844821"
              y="279.68475"
+             style="stroke-width:0.478448"
+             id="tspan4803-0">    •    ASP.NET / C#</tspan><tspan
+             sodipodi:role="line"
              x="-413.02249"
-             sodipodi:role="line">    •    ASP.NET / C#</tspan><tspan
-             id="tspan4805-7"
-             style="stroke-width:0.47844821"
              y="294.87549"
-             x="-413.02249"
-             sodipodi:role="line">    •    HTML / CSS</tspan></text>
+             style="stroke-width:0.478448"
+             id="tspan4805-7">    •    HTML / CSS</tspan></text>
       </g>
     </g>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.16550255px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.8726576;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       x="-411.70789"
+       id="text4343-3-4-2"
        y="335.98947"
-       id="text4343-3-4-2"><tspan
-         sodipodi:role="line"
-         id="tspan4341-8-4-9"
-         x="-411.70789"
+       x="-411.70789"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.1655px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.872658;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         style="fill:#000000;stroke-width:0.872658"
          y="335.98947"
-         style="fill:#000000;stroke-width:0.8726576">Involvement</tspan></text>
+         x="-411.70789"
+         id="tspan4341-8-4-9"
+         sodipodi:role="line">Involvement</tspan></text>
     <g
-       id="g4660"
-       transform="translate(0,2.0085586e-5)">
-      <text
-         id="text4358-6-95-0"
-         y="400.70654"
-         x="-414.24576"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.34079838px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.56459838;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.56459838"
-           y="400.70654"
-           x="-414.24576"
-           id="tspan4356-8-1-04"
-           sodipodi:role="line">Federal Reserve Bank of Kansas City — Code-a-Thon</tspan></text>
-      <text
-         id="text4358-6-5-6-4-1-2-7"
-         y="398.89938"
-         x="143.71982"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15277386px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47845569;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.47845569"
-           y="398.89938"
-           x="143.71982"
-           id="tspan4356-8-3-5-3-5-0-5"
-           sodipodi:role="line">Fall 2018</tspan></text>
-    </g>
-    <g
-       id="g4654"
-       transform="translate(0,2.0085586e-5)">
-      <text
-         id="text4358-6-95-0-9-2-6"
-         y="428.79895"
-         x="-413.43347"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.34079838px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.56459838;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.56459838"
-           y="428.79895"
-           x="-413.43347"
-           id="tspan4356-8-1-04-2-8-8"
-           sodipodi:role="line">Verizon App Challenge — national competition</tspan></text>
-      <text
-         id="text4358-6-5-1-67-5-0-3-7-8"
-         y="446.0285"
-         x="-412.96408"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15258408px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47844821;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         xml:space="preserve"><tspan
-           id="tspan5472-2-7-8-4-9"
-           style="stroke-width:0.47844821"
-           y="446.0285"
-           x="-412.96408"
-           sodipodi:role="line">    Competed with other schools in the U.S. to form the most useful mobile application.</tspan></text>
-      <text
-         id="text4358-6-5-6-4-1-2-7-9"
-         y="427.15793"
-         x="126.897"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15277386px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47845569;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.47845569"
-           y="427.15793"
-           x="126.897"
-           id="tspan4356-8-3-5-3-5-0-5-0"
-           sodipodi:role="line">Spring 2016</tspan></text>
-    </g>
-    <path
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.60699809;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="M -408.9618,347.89505 H 192.41314"
-       id="path4476-7-7-6"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <g
-       id="g4666"
-       transform="translate(0,2.0085586e-5)">
-      <text
-         id="text4358-6-95-0-0"
-         y="372.65021"
-         x="-414.24576"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.34079838px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.56459838;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.56459838"
-           y="372.65021"
-           x="-414.24576"
-           id="tspan4356-8-1-04-9"
-           sodipodi:role="line">Evergy — Software Engineering Contest</tspan></text>
+       transform="translate(0,2.0085586e-5)"
+       id="g4660">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15277386px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47845569;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         x="144.06992"
-         y="370.84305"
-         id="text4358-6-5-6-4-1-2-7-6"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.3408px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.564598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         x="-414.24576"
+         y="400.70654"
+         id="text4358-6-95-0"><tspan
            sodipodi:role="line"
-           id="tspan4356-8-3-5-3-5-0-5-02"
-           x="144.06992"
+           id="tspan4356-8-1-04"
+           x="-414.24576"
+           y="400.70654"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.564598">Federal Reserve Bank of Kansas City — Code-a-Thon</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1528px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478456;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         x="143.71982"
+         y="398.89938"
+         id="text4358-6-5-6-4-1-2-7"><tspan
+           sodipodi:role="line"
+           id="tspan4356-8-3-5-3-5-0-5"
+           x="143.71982"
+           y="398.89938"
+           style="stroke-width:0.478456">Fall 2018</tspan></text>
+    </g>
+    <g
+       transform="translate(0,2.0085586e-5)"
+       id="g4654">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.3408px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.564598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         x="-413.43347"
+         y="428.79895"
+         id="text4358-6-95-0-9-2-6"><tspan
+           sodipodi:role="line"
+           id="tspan4356-8-1-04-2-8-8"
+           x="-413.43347"
+           y="428.79895"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.564598">Verizon App Challenge — national competition</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1526px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478448;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         x="-412.96408"
+         y="446.0285"
+         id="text4358-6-5-1-67-5-0-3-7-8"><tspan
+           sodipodi:role="line"
+           x="-412.96408"
+           y="446.0285"
+           style="stroke-width:0.478448"
+           id="tspan5472-2-7-8-4-9">    Competed with other schools in the U.S. to form the most useful mobile application.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1528px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478456;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         x="126.897"
+         y="427.15793"
+         id="text4358-6-5-6-4-1-2-7-9"><tspan
+           sodipodi:role="line"
+           id="tspan4356-8-3-5-3-5-0-5-0"
+           x="126.897"
+           y="427.15793"
+           style="stroke-width:0.478456">Spring 2016</tspan></text>
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4476-7-7-6"
+       d="M -408.9618,347.89505 H 192.41314"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.60699809;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <g
+       transform="translate(0,2.0085586e-5)"
+       id="g4666">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.3408px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.564598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         x="-414.24576"
+         y="372.65021"
+         id="text4358-6-95-0-0"><tspan
+           sodipodi:role="line"
+           id="tspan4356-8-1-04-9"
+           x="-414.24576"
+           y="372.65021"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.564598">Evergy — Software Engineering Contest</tspan></text>
+      <text
+         id="text4358-6-5-6-4-1-2-7-6"
+         y="370.84305"
+         x="144.06992"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1528px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478456;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.478456"
            y="370.84305"
-           style="stroke-width:0.47845569">Fall 2019</tspan></text>
+           x="144.06992"
+           id="tspan4356-8-3-5-3-5-0-5-02"
+           sodipodi:role="line">Fall 2019</tspan></text>
     </g>
     <g
        id="g4612">
       <g
          id="g4565">
         <text
-           id="text4358-6-95-0-98"
-           y="643.04449"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.3408px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.564598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
            x="-414.27353"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.34079838px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.56459838;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.56459838"
-             y="643.04449"
-             x="-414.27353"
+           y="643.04449"
+           id="text4358-6-95-0-98"><tspan
+             sodipodi:role="line"
              id="tspan4356-8-1-04-4"
-             sodipodi:role="line">Best In State Award — Verizon App Challenge</tspan></text>
-        <text
-           id="text4358-6-5-1-67-5-0-3-7-8-1"
-           y="660.27405"
-           x="-413.09714"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15258408px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47844821;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           xml:space="preserve"><tspan
-             id="tspan5472-2-7-8-4-9-9"
-             style="stroke-width:0.47844821"
-             y="660.27405"
-             x="-413.09714"
-             sodipodi:role="line">    Earned $5,000 for my school. Had the best mobile application concept</tspan><tspan
-             id="tspan6189"
-             style="stroke-width:0.47844821"
-             y="675.46478"
-             x="-413.09714"
-             sodipodi:role="line">    out of all participants within the state, and advanced to nationals. (Team of 3)</tspan></text>
+             x="-414.27353"
+             y="643.04449"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.564598">Best In State Award — Verizon App Challenge</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15277386px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47845569;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           x="123.82571"
-           y="641.4035"
-           id="text4358-6-5-6-4-1-2-7-9-6"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1526px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478448;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           x="-413.09714"
+           y="660.27405"
+           id="text4358-6-5-1-67-5-0-3-7-8-1"><tspan
              sodipodi:role="line"
-             id="tspan4356-8-3-5-3-5-0-5-0-8"
-             x="123.82571"
+             x="-413.09714"
+             y="660.27405"
+             style="stroke-width:0.478448"
+             id="tspan5472-2-7-8-4-9-9">    Earned $5,000 for my school. Had the best mobile application concept</tspan><tspan
+             sodipodi:role="line"
+             x="-413.09714"
+             y="675.46478"
+             style="stroke-width:0.478448"
+             id="tspan6189">    out of all participants within the state, and advanced to nationals. (Team of 3)</tspan></text>
+        <text
+           id="text4358-6-5-6-4-1-2-7-9-6"
+           y="641.4035"
+           x="123.82571"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1528px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478456;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.478456"
              y="641.4035"
-             style="stroke-width:0.47845569">Spring 2016</tspan></text>
+             x="123.82571"
+             id="tspan4356-8-3-5-3-5-0-5-0-8"
+             sodipodi:role="line">Spring 2016</tspan></text>
       </g>
       <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.16550255px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.8726576;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         x="-414.77917"
+         id="text4343-3-4-2-4"
          y="488.31738"
-         id="text4343-3-4-2-4"><tspan
-           sodipodi:role="line"
-           id="tspan4341-8-4-9-7"
-           x="-414.77917"
+         x="-414.77917"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.1655px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.872658;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         xml:space="preserve"><tspan
+           style="fill:#000000;stroke-width:0.872658"
            y="488.31738"
-           style="fill:#000000;stroke-width:0.8726576">Honors &amp; Awards</tspan></text>
+           x="-414.77917"
+           id="tspan4341-8-4-9-7"
+           sodipodi:role="line">Honors &amp; Awards</tspan></text>
       <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path4476-7-7-7"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.60699809;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
          d="M -412.03309,500.223 H 189.34185"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.60699809;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+         id="path4476-7-7-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
       <g
          id="g4574">
         <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.34079838px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.56459838;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           x="-414.27353"
+           id="text4358-6-95-0-98-3"
            y="583.04779"
-           id="text4358-6-95-0-98-3"><tspan
-             sodipodi:role="line"
-             id="tspan4356-8-1-04-4-2"
-             x="-414.27353"
+           x="-414.27353"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.3408px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.564598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.564598"
              y="583.04779"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.56459838">Inclusivity Award — Federal Reserve Bank of Kansas City Code-a-Thon</tspan></text>
+             x="-414.27353"
+             id="tspan4356-8-1-04-4-2"
+             sodipodi:role="line">Inclusivity Award — Federal Reserve Bank of Kansas City Code-a-Thon</tspan></text>
         <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15258408px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47844821;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           x="-413.09714"
+           id="text4358-6-5-1-67-5-0-3-7-8-1-6"
            y="600.27734"
-           id="text4358-6-5-1-67-5-0-3-7-8-1-6"><tspan
-             sodipodi:role="line"
-             x="-413.09714"
+           x="-413.09714"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1526px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478448;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           xml:space="preserve"><tspan
+             id="tspan6189-4"
+             style="stroke-width:0.478448"
              y="600.27734"
-             style="stroke-width:0.47844821"
-             id="tspan6189-4">    This award is presented to the team that engaged a diverse range of</tspan><tspan
-             id="tspan6227"
-             sodipodi:role="line"
              x="-413.09714"
+             sodipodi:role="line">    This award is presented to the team that engaged a diverse range of</tspan><tspan
+             style="stroke-width:0.478448"
              y="615.46808"
-             style="stroke-width:0.47844821">    members in fostering collaboration and teamwork. (Team of 5)</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15277386px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47845569;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           x="140.64853"
-           y="581.2406"
-           id="text4358-6-5-6-4-1-2-7-3"><tspan
+             x="-413.09714"
              sodipodi:role="line"
-             id="tspan4356-8-3-5-3-5-0-5-2"
-             x="140.64853"
+             id="tspan6227">    members in fostering collaboration and teamwork. (Team of 5)</tspan></text>
+        <text
+           id="text4358-6-5-6-4-1-2-7-3"
+           y="581.2406"
+           x="140.64853"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1528px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478456;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.478456"
              y="581.2406"
-             style="stroke-width:0.47845569">Fall 2018</tspan></text>
+             x="140.64853"
+             id="tspan4356-8-3-5-3-5-0-5-2"
+             sodipodi:role="line">Fall 2018</tspan></text>
       </g>
       <g
          id="g4583">
         <text
-           id="text4358-6-95-0-98-4"
-           y="523.05103"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.3408px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.564598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
            x="-413.52429"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.34079838px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.56459838;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.56459838"
-             y="523.05103"
-             x="-413.52429"
+           y="523.05103"
+           id="text4358-6-95-0-98-4"><tspan
+             sodipodi:role="line"
              id="tspan4356-8-1-04-4-4"
-             sodipodi:role="line">3rd Place Prize — Evergy Software Engineering Contest</tspan></text>
-        <text
-           id="text4358-6-5-1-67-5-0-3-7-8-1-5"
-           y="540.28058"
-           x="-413.09714"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15258408px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47844821;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           xml:space="preserve"><tspan
-             id="tspan5472-2-7-8-4-9-9-9"
-             style="stroke-width:0.47844821"
-             y="540.28058"
-             x="-413.09714"
-             sodipodi:role="line">    Designed the 3rd best software engineering solution for the given task.</tspan><tspan
-             id="tspan6189-3"
-             style="stroke-width:0.47844821"
-             y="555.47131"
-             x="-413.09714"
-             sodipodi:role="line">    Awarded a cash prize for each member of the team. (Team of 3)</tspan></text>
+             x="-413.52429"
+             y="523.05103"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic Bold';stroke-width:0.564598">3rd Place Prize — Evergy Software Engineering Contest</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15277386px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47845569;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           x="140.99863"
-           y="521.24384"
-           id="text4358-6-5-6-4-1-2-7-9-6-0"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1526px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478448;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           x="-413.09714"
+           y="540.28058"
+           id="text4358-6-5-1-67-5-0-3-7-8-1-5"><tspan
              sodipodi:role="line"
-             id="tspan4356-8-3-5-3-5-0-5-0-8-1"
-             x="140.99863"
+             x="-413.09714"
+             y="540.28058"
+             style="stroke-width:0.478448"
+             id="tspan5472-2-7-8-4-9-9-9">    Designed the 3rd best software engineering solution for the given task.</tspan><tspan
+             sodipodi:role="line"
+             x="-413.09714"
+             y="555.47131"
+             style="stroke-width:0.478448"
+             id="tspan6189-3">    Awarded a cash prize for each member of the team. (Team of 3)</tspan></text>
+        <text
+           id="text4358-6-5-6-4-1-2-7-9-6-0"
+           y="521.24384"
+           x="140.99863"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1528px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478456;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.478456"
              y="521.24384"
-             style="stroke-width:0.47845569">Fall 2019</tspan></text>
+             x="140.99863"
+             id="tspan4356-8-3-5-3-5-0-5-0-8-1"
+             sodipodi:role="line">Fall 2019</tspan></text>
       </g>
     </g>
     <path
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.60699809;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="m 203.06473,701.85681 0,-998.05514"
-       id="path4476-7-1"
+       sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       id="path4476-7-1"
+       d="m 203.06473,701.85681 0,-998.05514"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.60699809;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15277386px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47845569;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       x="110.74131"
+       id="text4358-6-5-6-0"
        y="-146.8902"
-       id="text4358-6-5-6-0"><tspan
-         sodipodi:role="line"
-         id="tspan4356-8-3-5-7"
-         x="110.74131"
+       x="110.74131"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1528px;line-height:1.25;font-family:'Century GOthic';-inkscape-font-specification:'Century GOthic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.478456;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:13.8;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.478456"
          y="-146.8902"
-         style="stroke-width:0.47845569">GPA: 3.4 / 4.0</tspan></text>
+         x="110.74131"
+         id="tspan4356-8-3-5-7"
+         sodipodi:role="line">GPA: 3.4 / 4.0</tspan></text>
   </g>
 </svg>
