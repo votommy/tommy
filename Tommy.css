@@ -15,6 +15,47 @@ html, body {
     overflow-x: hidden; /*Prevents white space on smaller windows*/
 }
 
+#updateMsgBackdrop {
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #000000CC;
+    -webkit-backdrop-filter: blur(1rem);
+    backdrop-filter: blur(1rem);
+    position: fixed;
+    display: block;
+    z-index: 997; /*one less than #updateMsg*/
+}
+#updateMsgBackdrop:hover {
+    cursor: pointer;
+}
+#updateMsg {
+    display: block;
+    position: fixed;
+    z-index: 998;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 70%;
+    height: 30%;
+    background-color: white;
+    padding: 1rem;
+    text-align: right;
+    border-radius: 1.5rem;
+}
+#updateMsgXBtn {
+    background-color: transparent;
+    border: none;
+    color: #e16832;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+#updateMsg p {
+    text-align: center;
+    font-size: 1.3rem;
+}
+
 #sig, #hamburger, .navAboutMe, .navExperience, .navAwards, .navContact, #NW1, #NW, #fed, #verizon {
     cursor: pointer;
 }

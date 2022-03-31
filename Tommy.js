@@ -1,4 +1,9 @@
 $(document).ready(function() { //jQuery
+    $(".closeUpdateBtn").click(function() {
+        $("#updateMsg").css("display", "none");
+        $("#updateMsgBackdrop").css("display", "none");
+    });
+    
     $("#sig").click(function() { //scrolls to aboutMe on click. Animate smooth scroll
         $('html, body').animate({
             scrollTop: $("#aboutMe").offset().top
